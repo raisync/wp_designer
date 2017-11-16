@@ -364,3 +364,31 @@ span#footer-menu {
 	font-size: 40px;
 	padding: 0px 100px;
 }
+
+/* SLIDER */
+.sa_hover_container {
+    border-radius: 25px;
+    box-shadow: 0px 0px 30px rgba(92, 92, 92, .1);
+}
+
+.owl-dot {
+	background-color: #377CBA !important;
+}
+
+.owl-dot span {
+	visibility: hidden;
+}
+
+figcaption {
+	display: block;
+}
+
+.row {
+	display: flex;
+	margin-top: 20px;
+}
+
+.col-md-4 img {
+	box-shadow: 0px 10px 50px rgba(92, 92, 92, 0.2);
+    border-radius: 25%;
+}
