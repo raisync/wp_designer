@@ -1,0 +1,73 @@
+a:focus{ box-shadow: none !important; -moz-box-shadow: none !important; -webkit-box-shadow: none !important; }
+#wp-admin-bar-root-default li.dashicons-admin-tools a::before { content: "\f111" !important; }
+#wp-admin-bar-root-default li.dashicons-admin-home a::before { content: "\f102" !important; }
+#add-ons .add-on-group:first-child,
+.acf-alert, #wrap-support, #cpt_info_box,
+.hide-if-no-customize,
+.repeater .fa-live-preview,
+.theme-wrap .theme-header .left, 
+.theme-wrap .theme-header .right,
+.theme[aria-describedby="Chameleon-action Chameleon-name"],
+#theme option[value="Chameleon"] { display: none !important; }
+@media only screen and ( max-width: 1080px ) {
+	#wp-admin-bar-comments,
+	#wp-admin-bar-wpseo-menu,
+	#wp-admin-bar-revslider,
+	#wp-admin-bar-theme-option,
+	#wp-admin-bar-vc_inline-admin-bar-link { display: none !important; }
+}
+
+body#tinymce.wp-editor *{ box-sizing: border-box; -webkit-box-sizing: border-box;}
+body#tinymce.wp-editor{ background-color: #F9F9F8;  color: #555555; font-size: 14px; line-height: 1.714em; font-family: 'Open Sans', sans-serif; margin: 30px 20px !important;}
+body#tinymce.wp-editor a,
+body#tinymce.wp-editor a:visited{ color: inherit; text-decoration: none !important;}
+body#tinymce.wp-editor h1, body#tinymce.wp-editor .h1, 
+body#tinymce.wp-editor h2, body#tinymce.wp-editor .h2, 
+body#tinymce.wp-editor h3, body#tinymce.wp-editor .h3, 
+body#tinymce.wp-editor h4, body#tinymce.wp-editor .h4, 
+body#tinymce.wp-editor h6, body#tinymce.wp-editor .h5, 
+body#tinymce.wp-editor h5, body#tinymce.wp-editor .h6 { color: #333a46; font-family: 'Roboto Condensed', sans-serif; font-weight: 700; }
+body#tinymce.wp-editor h1, body#tinymce.wp-editor .h1 { font-size: 60px !important;}
+body#tinymce.wp-editor h2, body#tinymce.wp-editor .h2 { font-size: 50px !important;}
+body#tinymce.wp-editor h3, body#tinymce.wp-editor .h3 { font-size: 30px !important;}
+body#tinymce.wp-editor h4, body#tinymce.wp-editor .h4 { font-size: 26px !important;}
+body#tinymce.wp-editor h5, body#tinymce.wp-editor .h5 { font-size: 20px !important;}
+body#tinymce.wp-editor h6, body#tinymce.wp-editor .h6 { font-size: 18px !important;}
+body#tinymce.wp-editor small { font-size: 14.43px; }
+body#tinymce.wp-editor mark { background-color: #65cfca; padding: 0 8px; white-space: nowrap; }
+body#tinymce.wp-editor p{ font-size: 1em; line-height: 1.389em; margin: 0 0 15px; }
+body#tinymce.wp-editor strong{ font-weight: 700; }
+body#tinymce.wp-editor p strong{ font-weight: 700; }
+body#tinymce.wp-editor img.aligncenter { display: block; margin-bottom: 16px;}
+body#tinymce.wp-editor blockquote { background-color: #fff; font-style: italic; margin: 0 0 20px; padding: 20px 30px; }
+body#tinymce.wp-editor blockquote p { color: #323232 !important; line-height: 1.7; }
+body#tinymce.wp-editor blockquote cite { color: #666666; float: right; font-size: .7em; font-weight: 400; margin: 30px 0 0 0; }
+.acf_postbox .field textarea[rows="1"] { min-height: 40px !important; }
+.acf_postbox .field textarea[rows="2"] { min-height: 60px !important; }
+.acf_postbox .field textarea[rows="3"] { min-height: 80px !important; }
+.acf_postbox .field textarea[rows="4"] { min-height: 100px !important; }
+
+.overflow-hidden{ overflow: hidden;}
+.overflow-visible{ overflow: visible;}
+
+/*WhiteLabel*/
+html .theme[data-slug="Chameleon"],
+.theme-overlay .parent-theme,
+#panel-wrap .ui-state-default[aria-labelledby="ui-id-8"],
+#panel-wrap #wrap-updates .box-description { display: none !important; }
+
+/*AFC*/
+.field.field_type-message { background-color: #eeeeee; }
+#acf- > h1,
+#acf- > h2,
+#acf- > h3,
+#acf- > h4,
+#acf- > h5,
+#acf- > h6 { margin: 1em 0 0; font-weight: bold; }
+#acf- > h1 { font-size: 26px; }
+#acf- > h2 { font-size: 24px; }
+#acf- > h3 { font-size: 20px; }
+#acf- > h4 { font-size: 18px; }
+#acf- > h5 { font-size: 16px; }
+#acf- > h6 { font-size: 15px; }
+.acf_postbox .field input[type="text"], .acf_postbox .field input[type="number"], .acf_postbox .field input[type="password"], .acf_postbox .field input[type="email"], .acf_postbox .field textarea { padding: 0 5px; }

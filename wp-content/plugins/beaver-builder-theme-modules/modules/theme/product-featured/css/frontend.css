@@ -1,0 +1,53 @@
+#product-gallery .product-gallery-items article figure {
+    margin: 0;
+    display: block;
+    max-height: 450px;
+}
+
+#product-gallery .figure-content h4 { text-align: center; }
+#product-gallery .product-link {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 13px 10px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    max-width: 100%;
+    display: inline-block;
+    color: #212121;
+    text-align: center;
+    text-transform: none;
+    line-height: 1;
+    transition: all 0.35s;
+    -webkit-transition: all 0.35s;
+}
+
+.product-gallery-mixitup { position: relative; }
+
+
+
+.product-gallery-items article.full { width: 100%; margin-bottom: 30px; }
+/*.product-gallery-items article.half { width: auto !important; }*/
+.product-gallery-items article figure { margin: 0; display: block; max-height: 160px; position: relative; overflow: hidden; }
+    .product-gallery-items article figure img { width: 100%; vertical-align: bottom; height: auto; max-width: 100%; -webkit-transition: -webkit-transform 0.4s; transition: transform 0.4s; }
+    .product-gallery-items article figure:hover img { -webkit-transform: translateY(-50px); transform: translateY(-50px); }
+
+    .product-gallery-items article .heading-text { display: table; }
+        .product-gallery-items article .heading-text a > span,
+        .product-gallery-items article .heading-text a > h4 { color: #a8c944; }
+        .product-gallery-items article .heading-text span { display: table-cell; vertical-align: middle; font-size: 32px; }
+        .product-gallery-items article .heading-text h4 { display: table-cell; vertical-align: middle; font-size: 18px; padding: 20px; }
+.product-gallery-items article .content-text {
+    padding-left: 62px;
+}
+.product-gallery-items article .content-text .more-link {
+    color: #12566b;
+    font-weight: 800;
+}
+.product-gallery-items article .content-text .more-link:before {
+    content: '+';
+    padding-right: 5px;
+}
+    .product-gallery-items article figure .product-gallery-button { border: 1px solid #446f2f; font-size: 15px; line-height: 1; padding-left: 33px; padding-right: 33px; }

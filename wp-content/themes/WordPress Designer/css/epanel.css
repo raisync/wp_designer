@@ -1,0 +1,4 @@
+.epanel-box select, .epanel-box input[type="text"] { padding: 0 13px !important; }
+.custom-menu-enable #wrap-navigation div#navigation-1{ position: relative; }
+.custom-menu-enable #wrap-navigation div#navigation-1::before { background-color: #fff; content: ""; display: block; height: 100%; left: 0; opacity: 0.9; position: absolute; top: 0; width: 100%; z-index: 1; }
+.custom-menu-enable #wrap-navigation div#navigation-1::after { color: #333; content: "CUSTOM MENU ENABLE"; display: block; font-size: 60px; font-weight: 100; margin-top: -40px; position: absolute; text-align: center; top: 50%; width: 100%; z-index: 1; }

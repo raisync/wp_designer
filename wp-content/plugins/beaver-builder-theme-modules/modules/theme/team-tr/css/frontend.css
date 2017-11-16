@@ -1,0 +1,63 @@
+#gallery .fl-heading {
+    margin: 0 !important;
+    float: left;
+}
+    #gallery .fl-heading span {
+        font-family: 'Droid Serif', serif;
+        font-weight: 400;
+        font-style: italic;
+        font-size: 28px;
+        color: #34343c;
+    }
+
+#team-gallery {
+    margin-top: 40px;
+}
+
+#team-gallery .team-gallery-items article figure {
+    margin: 0;
+    display: block;
+    max-height: 450px;
+}
+
+#team-gallery .figure-content h4 { text-align: center; }
+#team-gallery .team-link {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 13px 10px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    max-width: 100%;
+    display: inline-block;
+    color: #212121;
+    text-align: center;
+    text-transform: none;
+    line-height: 1;
+    transition: all 0.35s;
+    -webkit-transition: all 0.35s;
+}
+
+.team-gallery-mixitup { position: relative; }
+
+
+.team-gallery-items article figure { margin: 0; display: block; max-height: 160px; }
+.team-gallery-items article figure { position: relative; overflow: hidden; }
+.team-gallery-items article figure img { width: 100%; vertical-align: bottom; height: auto; max-width: 100%; -webkit-transition: -webkit-transform 0.4s; transition: transform 0.4s; }
+.team-gallery-items article figure:hover img { -webkit-transform: translateY(-50px); transform: translateY(-50px); }
+.team-gallery-items article figure figcaption { position: absolute; background: rgba(255,255,255,0.8); display: block; width: 100%; height: 100%; bottom: 0; padding: 17px 20px; text-align: center; opacity: 0; -webkit-transform: translateY(100%); transform: translateY(100%); -webkit-backface-visibility: hidden; backface-visibility: hidden; -webkit-transition: -webkit-transform 0.4s, opacity 0.1s 0.3s; transition: transform 0.4s, opacity 0.1s 0.3s; }
+.team-gallery-items article figure figcaption .figure-content { 
+    position: absolute;
+    top: calc(50% - 25%);
+    left: 10px;
+    right: 10px; }
+/*
+.team-gallery-items article figure figcaption .team-gallery-button {
+    border: 1px solid #446f2f;
+}
+*/
+.team-gallery-items article figure:hover figcaption { opacity: 1; -webkit-transform: translateY(0px); transform: translateY(0px); -webkit-transition: -webkit-transform 0.4s, opacity 0.1s; transition: transform 0.4s, opacity 0.1s; }
+.team-gallery-items article figure h4 { font-size: inherit; color: #446f2f; margin: 0px 0 15px 0; }
+.team-gallery-items article figure .team-gallery-button { border: 1px solid #446f2f; font-size: 15px; line-height: 1; padding-left: 33px; padding-right: 33px; }

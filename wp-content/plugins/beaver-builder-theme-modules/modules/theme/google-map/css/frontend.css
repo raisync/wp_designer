@@ -1,0 +1,7 @@
+.fl-map iframe {
+	pointer-events: none;
+}
+
+#map {
+    height: 100%;
+}

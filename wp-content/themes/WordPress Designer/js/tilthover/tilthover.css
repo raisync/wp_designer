@@ -1,0 +1,6 @@
+/*.tilter { perspective: 1000px; float: left; width: 100%; }*/
+.tilter * { transform: translateZ(0px); }
+html:not(.ie) .tilter.mouse-enter .tilter__figure,
+html:not(.ie) .tilter.mouse-enter .tilter__caption,
+html:not(.ie) .tilter.mouse-enter .tilter__deco,
+html:not(.ie) .tilter.mouse-enter .page-title-button { transition: transform 0.2s ease-out; }

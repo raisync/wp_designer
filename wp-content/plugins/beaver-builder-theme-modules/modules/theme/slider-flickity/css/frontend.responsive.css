@@ -1,0 +1,6 @@
+.mobile-centered.slider-flickity-info-inner.left { text-align: center; }
+.mobile-centered.slider-flickity-info-inner.left .title,
+.mobile-centered.slider-flickity-info-inner.left .desc{ clear: both; float: none; margin-left: 0; }
+.mobile-centered.slider-flickity-info-inner.right { text-align: center; }
+.mobile-centered.slider-flickity-info-inner.right .title,
+.mobile-centered.slider-flickity-info-inner.right .desc{ clear: both; float: none; margin-right: 0; }

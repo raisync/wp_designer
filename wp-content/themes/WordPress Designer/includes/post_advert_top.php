@@ -1,0 +1,1 @@
+<?php if (get_option('chameleon_integration_single_top') <> '' && get_option('chameleon_integrate_singletop_enable') == 'on') echo esc_html(get_option('chameleon_integration_single_top')); ?>

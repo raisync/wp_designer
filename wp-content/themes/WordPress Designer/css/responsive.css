@@ -1,0 +1,108 @@
+/*TABLET LANDSCAPE--*/
+/*Monitor 20"*/
+@media only screen and ( max-width: 1550px ) {
+}
+@media only screen and ( max-width: 1550px ) and ( min-width: 768px ) {
+}
+/*Monitor 14 - MAC"*/
+@media only screen and ( max-width: 1280px ) {
+}
+/*Responsive menu*/
+@media only screen and ( max-width: 1279px ) {
+}
+/*beaver builder force responsive*/
+@media only screen and ( max-width: 1280px ) and ( min-width: 768px ) {
+}
+/*iPad Landscape*/
+@media only screen and ( max-width: 1024px ) {
+}
+/*Bootstrap Break Tablet Portrait*/
+@media only screen and ( max-width: 991px ) {
+}
+/*Google Nexus 7 New Version*/
+@media only screen and ( max-width: 960px ) {	
+}
+
+
+/*TABLET PORTRAIT--*/
+/*Samsung tablet 10.1 Portrait*/
+@media only screen and ( max-width: 800px ) {
+}
+/*WP ADMIN BAR TAB*/
+@media only screen and ( max-width: 782px ) {
+}
+/*iPad Portrait*/
+@media only screen and ( max-width: 768px ) {
+}
+
+
+/*MOBILE LANDSCAPE-*/
+/*Bootstrap Break Mobile Landscape*/
+@media only screen and ( max-width: 767px ) {
+}
+/*Google Nexus 6P Landscape*/
+@media only screen and ( max-width: 773px ) {
+}
+/*iPhone 6 + Landscape*/
+@media only screen and ( max-width: 736px ) {
+}
+/*Google Nexus 5X Landscape*/
+@media only screen and ( max-width: 731px ) {
+}
+/*Google Nexus 6 Landscape*/
+@media only screen and ( max-width: 723px ) {
+}
+/*iPhone 6 Landscape*/
+@media only screen and ( max-width: 667px ) {
+}
+/*Smartphone Landscape*/
+@media only screen and ( max-width: 640px ) {
+}
+
+
+/*TAB 7 PORTRAIT*/
+/*Google Nexus 7 Portrait*/
+@media only screen and ( max-width: 603px ) {
+}
+/*Samsung Tab 3 Portrait / Google Nexus 7 Portrait New Version*/
+@media only screen and ( max-width: 600px ) {
+}
+@media only screen and ( max-width: 580px ) {
+}
+/*iPhone 5 Landscape*/
+@media only screen and ( max-width: 568px ) {
+}
+/*Smartphone Landscape / Nokia XL*/
+@media only screen and ( max-width: 480px ) {
+}
+
+
+/*MOBILE PORTRAIT*/
+@media only screen and ( max-width: 467px ) {
+}
+/*Smartphone Portrait Nokia Lumia 920*/
+@media only screen and ( max-width: 460px ) {
+}
+/*Google Nexus 6P Portrait*/
+@media only screen and ( max-width: 435px ) {
+}
+/*iPhone 6 + Portrait*/
+@media only screen and ( max-width: 414px ) {
+}
+/*Google Nexus 6 Portrait*/
+@media only screen and ( max-width: 412px ) {
+}
+/*Google Nexus 5X Portrait*/
+@media only screen and ( max-width: 411px ) {
+}
+/*Samsung Galaxy Mega/Note1 Portrait*/
+@media only screen and ( max-width: 400px ) {
+}
+/*LG Optimus L70 Portrait / Google Nexus 4 */
+@media only screen and ( max-width: 384px ) {
+}
+/*Iphone 6 Portrait*/
+@media only screen and ( max-width: 375px ) {
+}
+/*Smartphone Portrait*/
+@media only screen and ( max-width: 360px ) {

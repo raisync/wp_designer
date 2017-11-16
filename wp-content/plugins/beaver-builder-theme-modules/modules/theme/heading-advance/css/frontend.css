@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif:400i|Roboto:300,300i,400|Open+Sans');
+
+.fl-module-heading-advance .fl-module-heading .section-heading {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.fl-module-heading-advance .section-heading {
+    margin: 0 !important;
+}
+    .fl-module-heading-advance .section-heading span {
+        border-bottom: 1px solid rgba(0,0,0,0.15);
+        padding: 20px 40px;
+        position: relative;
+    }
+    .fl-module-heading-advance .section-heading span i,
+    .fl-module-heading-advance .section-heading span b {
+        color: #12566B;
+        font-style: normal;
+    }
+    .fl-module-heading-advance .section-heading .borderline {
+/*        content: "";*/
+        border-bottom: 1px solid #12566B;
+        padding: 20px;
+        margin: auto;
+        position: absolute;
+        bottom: -1px;
+        left: 5px;
+        right: 5px;
+        width: 20%;
+    }
+    
+.fl-module-heading-advance .section-subheading {
+    margin-top: 30px;
+}
+.fl-module-heading-advance .section-subheading span {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 18px;
+    color: #34343c;
+}
