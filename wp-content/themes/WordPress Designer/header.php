@@ -26,7 +26,7 @@
 				<div id="main-menu">
 					<?php get_template_part('includes/primary_menu'); ?>
 					<a href="javascript: void(0)">
-						<img src="/wd/wp-content/uploads/2017/11/contact_nav.png">
+						<img src="/wd/wp-content/uploads/2017/11/contact_nav.png" class="contact">
 					</a>
 				</div>
 			</div>
