@@ -26,10 +26,9 @@
 				<div id="main-menu">
 					<?php get_template_part('includes/primary_menu'); ?>
 					<a href="javascript: void(0)">
-						<img src="/wd/wp-content/uploads/2017/11/contact_nav.png" class="contact">
+						<img src="/wd/wp-content/uploads/2017/11/contact_nav.png" class="quote">
 					</a>
 				</div>
 			</div>
 		</div>
 	</header>
-	<?php if ( !is_front_page() && !is_404() ) get_template_part('includes/top_info'); ?>

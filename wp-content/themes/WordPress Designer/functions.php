@@ -143,3 +143,5 @@ function wpse_226884_replace_hash($menu_item) {
     }
     return $menu_item;
 }
+
+add_filter( 'gform_enable_field_label_visibility_settings', '__return_true' );

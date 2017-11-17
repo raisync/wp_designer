@@ -227,22 +227,10 @@
 		});
 
 		/* Smooth navigator being used */
-		$(".hav").click(function() {
+		$(".port").click(function() {
 			$('html, body').animate({
-				scrollTop: $("#hire-a-va").offset().top
+				scrollTop: $("#portfolio").offset().top
 			}, 800);
-		});
-
-		$(".wwd").click(function() {
-			$('html, body').animate({
-				scrollTop: $("#what-we-do").offset().top
-			}, 700);
-		});
-
-		$(".cu").click(function() {
-			$('html, body').animate({
-				scrollTop: $("#contact-us").offset().top
-			}, 1000);
 		});
 
 		// responsive menu
