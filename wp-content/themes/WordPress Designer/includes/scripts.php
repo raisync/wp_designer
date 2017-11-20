@@ -233,6 +233,50 @@
 			}, 800);
 		});
 
+		/* Counter */
+		$('.counter').each(function() {
+		  var $this = $(this),
+		      countTo = $this.attr('data-count');
+		  
+		  $({ countNum: $this.text()}).animate({
+		    countNum: countTo
+		  },
+
+		  {
+		    duration: 10000,
+		    easing:'linear',
+		    step: function() {
+		      $this.text(Math.floor(this.countNum));
+		    },
+		    complete: function() {
+		      $this.text(this.countNum);
+		      //alert('finished');
+		    }
+
+		  });
+		});
+
+		/* Add active class */
+		$(function(){
+		    $('.gridlist').click(function(){
+		        $('.gridlist.active').removeClass('active');
+		        $(this).addClass('active');
+		    });
+		});
+
+		/* Grid List */
+		$( document ).ready(function() {
+		    $('button').click(function(e) {
+		        if ($(this).hasClass('grid')) {
+		            $('.fl-node-5a0ea99df252f').removeClass('list').addClass('grid');
+		        }
+		        else if($(this).hasClass('list')) {
+		            $('.fl-node-5a0ea99df252f').removeClass('grid').addClass('list');
+		        }
+		    });
+		});
+		/* */
+
 		// responsive menu
 		$('.nav').click(function(){
 		  $(this).toggleClass('responsive');

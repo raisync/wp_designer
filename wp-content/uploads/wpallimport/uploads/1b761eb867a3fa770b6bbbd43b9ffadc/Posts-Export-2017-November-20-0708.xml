@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<id><![CDATA[1]]></id>
+		<title><![CDATA[We'd love to work with you on your next project.]]></title>
+		<content><![CDATA[]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20120813]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/hello-world/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2012/08/WPD-Slider-Image-3-V1.png|http://wordpressdesigner.biz/wp-content/uploads/2012/08/wordpress_folder1.png|http://wordpressdesigner.biz/wp-content/uploads/2012/08/have_us_contact_you_button.png|http://wordpressdesigner.biz/wp-content/uploads/2012/08/get_a_quote_button.png|http://wordpressdesigner.biz/wp-content/uploads/2012/08/wordpress_folder.png]]></imageurl>
+		<imagetitle><![CDATA[WPD Slider Image 3 V1|wordpress_folder|have_us_contact_you_button|get_a_quote_button|wordpress_folder]]></imagetitle>
+		<imagecaption><![CDATA[||||]]></imagecaption>
+		<imagedescription><![CDATA[||||]]></imagedescription>
+		<imagealttext><![CDATA[||||]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[slider]]></categories>
+		<tags><![CDATA[]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[4]]></author>
+		<slug><![CDATA[hello-world]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20140826]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[148]]></id>
+		<title><![CDATA[Post 4]]></title>
+		<content><![CDATA[]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[-00011130]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/?p=148]]></permalink>
+		<imageurl><![CDATA[]]></imageurl>
+		<imagetitle><![CDATA[]]></imagetitle>
+		<imagecaption><![CDATA[]]></imagecaption>
+		<imagedescription><![CDATA[]]></imagedescription>
+		<imagealttext><![CDATA[]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Gallery]]></categories>
+		<tags><![CDATA[]]></tags>
+		<status><![CDATA[draft]]></status>
+		<author><![CDATA[4]]></author>
+		<slug><![CDATA[]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20120904]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[186]]></id>
+		<title><![CDATA[WordPress iOS Version 3.1: The Major UI Makeover]]></title>
+		<content><![CDATA[<a href="http://wordpressdesigner.biz/wp-content/uploads/2012/09/wpios-3-1-iphone-ipad-panels-sidebar-comments.jpg"><img class="aligncenter  wp-image-184" src="http://wordpressdesigner.biz/wp-content/uploads/2012/09/wpios-3-1-iphone-ipad-panels-sidebar-comments.jpg" alt="WordPress iOS Version 3.1" width="343" height="281" /></a>
+
+WordPress has never been so mobile before until the release of the iOS app. The fact that it is designed for both the iPod/iPhone Touch and the iPad, the iOS app makes it easy to write and edit posts or share photos while on the go. And now, it has even gotten hotter as the WordPress iOS dev team released the iOS version 3.1 with loads of new features!
+
+<strong>Updated Interface</strong>
+
+The app has an all-new look from the ground up. It has a new sliding panel interface for a greatly improved navigation and ease of use. The iOS version 3.1 sports an updated set of colors and graphics, an improved sign up experience and new app icon as well.
+
+<strong>Sidebar Menu</strong>
+
+The sidebar allows you to get around in the app more easily and conveniently. You can now easily access other areas of the app with just a swipe and a tap.  You can also navigate quickly to the app settings and take a quick photo from the sidebar too!
+
+<strong>iPad Panels </strong>
+
+The panels were designed to take advantage of iPad’s large screen. With this new panel interface, you can view your entire blog at once. It can be customized or moved around so you can view your content however you like. To remove a  panel, just drag the panel stack to the right. What a piece of cake, right?
+
+In addition to the user interface update, the new app has also included a bunch of other powerful features that boost performance and user experience as well, including:
+<ul>
+	<li><strong><a href="http://wordpressdesigner.biz/wp-content/uploads/2012/09/wpios-3-1-iphone-enhanced-stats.jpg"><img class="alignright size-medium wp-image-185" src="http://wordpressdesigner.biz/wp-content/uploads/2012/09/wpios-3-1-iphone-enhanced-stats-152x300.jpg" alt="WordPress iOS Version 3.1" width="152" height="300" /></a>Enhanced WordPress.com stats</strong> – allows you to view the full stat ri ght within the app</li>
+	<li><strong>New Post Preview for iPad</strong> – you will now get a nice preview of your post including formatiing and the images</li>
+	<li><strong>WordPress.com friend finder –</strong> connects you to Facebook and Twitter to find friends who are blogging on WordPress</li>
+	<li><strong>Landscape support –</strong> view the app in landscape format including the tabs and the post editor</li>
+	<li><strong>Easy site dashboard access –</strong> a no brainer feature actually which allows you to view your site complete with a dashboard link</li>
+	<li><strong>Wordpress.com reader and quick photo for iPad</strong> – a wish come true for iPad users (yay!)</li>
+	<li><strong>Post Format Support</strong> – there is no need to go back to the drawing board to find a post format your theme supports. The app will do this for you.</li>
+</ul>
+The iOS 3.1 app is maybe all about reliability improvements and performance tweaks but WordPress is not stopping here. WP Developers are heading into the next big evolution in a rapid pace. Visual Editor, support for featured images and a notification are just some of the features you should watch out for!]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20120918]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/wordpress-ios-version-3-1-the-major-iu-makeover/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2012/09/wpios-3-1-iphone-enhanced-stats.jpg|http://wordpressdesigner.biz/wp-content/uploads/2012/09/wpios-3-1-iphone-ipad-panels-sidebar-comments.jpg]]></imageurl>
+		<imagetitle><![CDATA[WordPress iOS Version 3.1|WordPress iOS Version 3.1]]></imagetitle>
+		<imagecaption><![CDATA[|]]></imagecaption>
+		<imagedescription><![CDATA[|]]></imagedescription>
+		<imagealttext><![CDATA[WordPress iOS Version 3.1|WordPress iOS Version 3.1]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[2]]></author>
+		<slug><![CDATA[wordpress-ios-version-3-1-the-major-iu-makeover]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20130123]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[195]]></id>
+		<title><![CDATA[SEO Ultimate: 20 Functionalities in One Powerful WordPess Plugin  ]]></title>
+		<content><![CDATA[<a href="http://wordpressdesigner.biz/wp-content/uploads/2012/10/WP-plugin.jpg"><img class="alignleft size-full wp-image-196" src="http://wordpressdesigner.biz/wp-content/uploads/2012/10/WP-plugin.jpg" alt="" width="272" height="197" /></a>One of the reasons WordPress is a famous and most popular CMS by choice is its vast array of SEO plugins. These software components are readily available for anyone and use it towards their greater advantage. Today, the WordPress community did it again by creating another powerful plugin that can extend WordPress websites to do almost anything you can imagine.
+
+&nbsp;
+
+<strong>Introducing SEO Ultimate – the “Swiss Army Knife” of all plugins</strong>
+
+<strong>The Genesis</strong>
+
+SEO ultimate is a fusion of different functionalities of 20 existing WordPress plugins; thus explaining its moniker.  This plugin boasts of 20 modules and hundreds of powerful features you can use and start benefiting from real profits. With just a few clicks and configurations, SEO Ultimate can help you implement the best SEO practices and customize every aspect of your webpages to give off a strong ranking signal to the search engines.
+
+<a href="http://wordpressdesigner.biz/wp-content/uploads/2012/10/SEO-Ultimate3.jpg"><img class="aligncenter  wp-image-203" src="http://wordpressdesigner.biz/wp-content/uploads/2012/10/SEO-Ultimate3-300x78.jpg" alt="" width="647" height="168" /></a>
+
+<strong>Getting Started  </strong>
+
+WordPress developed SEO Ultimate so you can focus on your on-page optimization factors – one of the most essential SEO tactics you cannot afford to miss. These on-page factors determine and must work in tandem with your off-page factors (link building, SMO, PPC and other online promotion strategies)   to create a dynamic and consistent progression in rankings, traffic, leads and sales.
+
+SEO Ultimate is created to transform a basic WordPress website into a robust content management ranking machine. I am not talking just about the entire website here but every page of your site. Remember that rankings are by pages and the more pages you can feed to Google, the more the search engine giant will put you on top of SERPS.
+
+By saying this, SEO Ultimate focuses on the latent combination of the following elements which corresponds to the search engine result pages. This includes the following:
+<ul>
+	<li>Highly relevant keywords of each webpage</li>
+	<li>Page titles and H1 tags</li>
+	<li>Relevant Meta Data</li>
+	<li>Internal link structure</li>
+	<li>Inbound links pointing to relevant and quality pages</li>
+</ul>
+&nbsp;
+
+<a href="http://wordpressdesigner.biz/wp-content/uploads/2012/10/SEO-U1.jpg"><img class="aligncenter  wp-image-204" src="http://wordpressdesigner.biz/wp-content/uploads/2012/10/SEO-U1-300x136.jpg" alt="" width="583" height="216" /></a>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+<p style="text-align: left;"><strong>Powerful features </strong></p>
+<p style="text-align: left;"><strong>Title Tag rewriter</strong></p>
+
+<ul style="text-align: left; float: none;">
+	<li>Puts your page’s content title at the beginning of the &lt;title&gt; tag for improved SEO</li>
+	<li>Customizes your homepage’s &lt;title&gt; tag</li>
+	<li>Overides the entire &lt;title&gt; tag for individual page, post, attachment, category, post tag or format on your blog.</li>
+	<li>Supports custom post types and custom taxonomies</li>
+	<li>Formats the &lt;title&gt; tags of posts, tags, archives, categories, pages, search results and more</li>
+	<li>Offers two rewrite methods “output buffering” or “filtering”</li>
+</ul>
+<p style="text-align: left;"><strong>Meta Description Editor </strong></p>
+
+<ul style="text-align: left; float: none;">
+	<li>Edits &lt;meta&gt; description</li>
+	<li>Increases SERP clickthrough rates by influencing search engines result snippets</li>
+	<li>Makes it easier to go back and add description to older posts</li>
+	<li>Allows the use of the {excerpt: :autogen} to auto-generate meta description</li>
+</ul>
+<p style="text-align: left;"><strong>Meta Robot Tags Editor </strong></p>
+
+<ul style="text-align: left; float: none;">
+	<li>Allows the &lt;meta name="robots" content="noindex,follow" /&gt; tag</li>
+	<li>Allows you to give instructions such as (noodp, noydir and noarchive) to search engine spiders</li>
+	<li>Helps you avoid duplicate content issues with its noindex settings</li>
+	<li>Sets meta robots tags 9index/noindex and follow/nofollow) for every post</li>
+</ul>
+<p style="text-align: left;"><strong>Canonicalizer</strong></p>
+
+<ul style="text-align: left; float: none;">
+	<li>Points search engines to preferred content with &lt;link rel="canonical" /&gt; head tags and/or Link: &lt;url&gt;; rel="canonical" HTTP headers</li>
+	<li>Provides a checkbox to redirect requests for non-existent pagination</li>
+	<li>Now supports category, tag, date, author archives</li>
+</ul>
+<p style="text-align: left;"><strong>404 Monitor</strong></p>
+
+<ul style="text-align: left; float: none;">
+	<li>Monitors “page not found” errors thus improving using experience</li>
+	<li>Finds pages that display 404 errors</li>
+	<li>Logging 404s that have a referring URL or are generated by SE spiders</li>
+	<li>Can also set to ignore 404s generated from a URL or wildcard URL pattern</li>
+</ul>
+<p style="text-align: left;"><strong>Code Inserter </strong></p>
+
+<ul style="text-align: left; float: none;">
+	<li>Helps you insert custom HTML into your website’s &lt;head&gt; tag, footer or item content</li>
+	<li>Can be used to add Google Analytics, FeedBurner FeedFlare, Google Adsense section targeting as well as other SEO and SEM-enhancing code snippets</li>
+	<li>Amore amazingly, the code remains even when changing themes</li>
+</ul>
+<p style="text-align: left;"><strong>Rich snippet creator </strong></p>
+
+<ul style="text-align: left; float: none;">
+	<li>Easily add rich snippet codes for reviews and places</li>
+	<li>Attracts more traffic coupled with impressive supplementary SERP data</li>
+	<li>Supports the new Schema.org format used by Yandex, Bing, Yahoo and Google</li>
+</ul>
+<p style="text-align: left;"><strong>Meta Keywords Editor </strong></p>
+
+<ul style="text-align: left; float: none;">
+	<li>Helps you edit &lt;meta&gt; keywords</li>
+	<li>Can help specify global keywords to be used in the entire website</li>
+	<li>Lets you edit the keywords in your old posts or pages with the mass-editor</li>
+	<li>Automatically generates meta keywords based on categories, custom taxonomy terms, frequently-used words and tags</li>
+</ul>
+<p style="text-align: left;"><strong>Deeplink juggernaut </strong></p>
+
+<ul style="text-align: left; float: none;">
+	<li>Boost your internal SEO paradigm by using anchor text</li>
+	<li>Customizes your footer links</li>
+	<li>Lets you easily build internal links to URLs, posts, pages, attachments etc.</li>
+	<li>Help select autolink destinations through autocomplete textboxes</li>
+	<li>Autolink points to the objects so even if you change the URL of a post or category, the autolink adjust automatically</li>
+	<li>Sets a maximum number of autolinks, anchor texts and deeplinks to help you avoid over-optimization penalties</li>
+	<li>Has nofollow attributes</li>
+	<li>Import or export links such as CSV files</li>
+	<li>Uses instant post propulsion technology to automatically link old posts no new ones</li>
+	<li>Lets you enable “Silo linking” mode so that posts only links to post on the same category</li>
+</ul>
+<p style="text-align: left;"><strong>Linkbox Inserter </strong></p>
+
+<ul style="text-align: left; float: none;">
+	<li>Encourages natural link building by adding textboxes that contain automatically generated HTML link</li>
+</ul>
+<p style="text-align: left;"><strong>Slug optimizer</strong></p>
+
+<ul style="text-align: left; float: none;">
+	<li>Increases in-URL keyword potency by removing filler words such as “and” “with” “the” etc.</li>
+	<li>Allows you to customize the filler words as desired</li>
+</ul>
+<p style="text-align: left;"><strong>File Editor </strong></p>
+
+<ul style="text-align: left; float: none;">
+	<li>Provides the .htaccess editor which allow the implementation of advanced SEO strategies</li>
+	<li>Features the robots.txt editor which can give instructions to search engines</li>
+</ul>
+<p style="text-align: left;"><strong>More Link Customizer </strong></p>
+
+<ul style="float: none;">
+	<li style="text-align: left;">Optimizes “read me” links by inseting keyword-rich titles</li>
+	<li style="text-align: left;">Can also override the “read more” link</li>
+	<li style="text-align: left;">Include &lt;strong&gt; or &lt;em&gt; tags in the anchor texts</li>
+</ul>
+<strong>Sharing facilitator </strong>
+<ul style="float: none;">
+	<li>Adds social sharing buttons to make it easier for your visitors to share content  thus building links to your site</li>
+	<li>With SEO Ultimate, you are not required to register at the ShareThis website to enable the button – you just enable and go</li>
+</ul>
+<a href="http://wordpressdesigner.biz/wp-content/uploads/2012/10/WP-logo1.jpg"><img class="size-thumbnail wp-image-205 alignleft" src="http://wordpressdesigner.biz/wp-content/uploads/2012/10/WP-logo1-150x150.jpg" alt="" width="150" height="150" /></a>SEO ultimate has still many astounding features you need to take a look at and some are still in development. However from the looks of the functions alone, SEO Ultimate is a potent contender as a <strong>“MUST HAVE” </strong>SEO plugin. Afterall it is an all-in-one WordPress SEO plugin.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20121008]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/seo-ultimate-20-functionalities-in-one-powerful-wordpess-plugin/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2012/10/WP-logo1.jpg|http://wordpressdesigner.biz/wp-content/uploads/2012/10/SEO-U1.jpg|http://wordpressdesigner.biz/wp-content/uploads/2012/10/SEO-Ultimate3.jpg|http://wordpressdesigner.biz/wp-content/uploads/2012/10/WP-logo.jpg|http://wordpressdesigner.biz/wp-content/uploads/2012/10/SEO-Ultimate2.jpg|http://wordpressdesigner.biz/wp-content/uploads/2012/10/SEO-U.jpg|http://wordpressdesigner.biz/wp-content/uploads/2012/10/SEO-Ultimate1.jpg|http://wordpressdesigner.biz/wp-content/uploads/2012/10/SEO-Ultimate.jpg|http://wordpressdesigner.biz/wp-content/uploads/2012/10/WP-plugin.jpg]]></imageurl>
+		<imagetitle><![CDATA[WP logo|SEO U|SEO Ultimate|WP logo|SEO Ultimate|SEO U|SEO Ultimate|SEO Ultimate|WP plugin]]></imagetitle>
+		<imagecaption><![CDATA[||||||||]]></imagecaption>
+		<imagedescription><![CDATA[||||||||]]></imagedescription>
+		<imagealttext><![CDATA[||||||||]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[2]]></author>
+		<slug><![CDATA[seo-ultimate-20-functionalities-in-one-powerful-wordpess-plugin]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20130123]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[326]]></id>
+		<title><![CDATA[Why oh Why Should I Use WordPress?]]></title>
+		<content><![CDATA[We have known WordPress as a convenient, easy-to-use blogging platform. But with the advancement of online technologies, WordPress evolved into a powerful internet publishing tool which you can use to build an entire website, a blog or both.
+
+<strong>Why is this good news for you?</strong>
+
+Have you read or heard or have been into these scenarios?
+
+&nbsp;
+
+<a href="http://wordpressdesigner.biz/wp-content/uploads/2013/01/Picture11.jpg"><img class="alignleft size-full wp-image-332" src="http://wordpressdesigner.biz/wp-content/uploads/2013/01/Picture11.jpg" alt="" width="195" height="130" /></a>
+
+"I cannot update my website!.."
+"A simple change require me to get my webmaster to do the job but it is going to cost me!"
+"Nooo... I just hosed my website."
+
+&nbsp;
+
+&nbsp;
+
+You will be surprised to read or find frustrations in the internet. They came from business owners who are not only disappointed with their content management system (CMS) but are also tired of spending a huge chunk of their time tinkering around their website and still end up with nothing.
+
+<strong>WordPress to the rescue.</strong>
+
+&nbsp;
+
+<a href="http://wordpressdesigner.biz/wp-content/uploads/2013/01/Picture2.jpg"><img class="alignright  wp-image-342" src="http://wordpressdesigner.biz/wp-content/uploads/2013/01/Picture2.jpg" alt="" width="238" height="158" /></a>You will never go through any of these. Every second of your time is worth an ounce of gold. So why waste it on lagging around your website when you can spend it meeting with clients and closing more deals?
+
+With WordPress, you are the webmaster. You can post, update, edit and manage your website in minutes without spending another dime. And you can do much more!
+
+&nbsp;
+
+<strong>
+</strong>
+<h2>Benefits you can take advantage in using WordPress</h2>
+&nbsp;
+
+<a href="http://wordpressdesigner.biz/wp-content/uploads/2013/01/screen-shot-2011-08-27-at-10-44-39-am.png"><img class="aligncenter size-full wp-image-367" src="http://wordpressdesigner.biz/wp-content/uploads/2013/01/screen-shot-2011-08-27-at-10-44-39-am.png" alt="" width="578" height="307" /></a>
+
+<strong>WordPress as a CMS</strong>
+
+Entrepreneurs brag WordPress as the best CMS. Not only of the factors it can contribute into their business in general but also because it is FREE! And WordPress has lots of powerful features and functions under its hood which enable you to make the most of your online representation. Plus the fact that WordPress is a blogging platform gives you a compelling advantage.
+
+Since you are thriving in a world where fresh content is a necessity, you need a system that will not get in the way whenever you want to update your website with a new content or newsletter.
+
+<strong>Notable brands using WordPress</strong>
+<p style="text-align: center"><a href="http://wordpressdesigner.biz/wp-content/uploads/2013/01/Notable_WP_Users.png"><img class="aligncenter  wp-image-345" src="http://wordpressdesigner.biz/wp-content/uploads/2013/01/Notable_WP_Users.png" alt="" width="605" height="383" /></a></p>
+&nbsp;
+
+<strong>
+</strong>
+<h2>WordPress as a website</h2>
+<strong>User-friendly</strong>
+
+<a href="http://wordpressdesigner.biz/wp-content/uploads/2013/01/userfriendly1.gif"><img class="alignleft  wp-image-350" src="http://wordpressdesigner.biz/wp-content/uploads/2013/01/userfriendly1.gif" alt="" width="250" height="200" /></a>WordPress understands just how busy you are . Thus it provides an easy to use platform where you can manage everything in a zap; from writing, editing or posting content to moderating comments , changing themes and customizing plugins.
+
+It is fluid, dynamic and intuitive. Even if you are a novice webmaster, with WordPress you are confident to care for your website, communicate with your customers and keep everything in your business constantly updated and relevant.
+
+&nbsp;
+
+<strong>Gives you everything and more</strong>
+
+While WordPress is the perfect haven for amateur webmasters, its features and functions do not end there. After you got the hang of the basics, you will love WordPress even more. There are thousands or more functionalities you can explore giving you a ginormous room for experimentation and achieve a sophisticated site management process.
+
+<strong>Open Source</strong>
+
+WordPress is FREE and it allows you to use it whatever you like in any way you want it without the need for a license. Because it is an Open Source CMS you can benefit from real time updates and new trends. There are currently millions of people who constantly make improvements, ingenious new themes as well as really awesome plugins and other cool features to meet or satisfy your online marketing needs. You can be a part of this evolving, selfless community.
+<strong>
+</strong>
+<h2>WordPress as a marketing tool<a href="http://wordpressdesigner.biz/wp-content/uploads/2013/01/content-marketing-campaign.png"><img class="aligncenter size-full wp-image-365" src="http://wordpressdesigner.biz/wp-content/uploads/2013/01/content-marketing-campaign.png" alt="" width="589" height="303" /></a></h2>
+&nbsp;
+
+<strong>Blogging made super easy</strong>
+
+Blogging is a powerful online marketing tool and it just keeps on getting better as WordPress allows you to easily integrate a blog into your website. You can use this journal to keep customers updated and help them make more informed decisions. Also regular posting of content can help you rank higher on SERPs (search engine result pages) which can ultimately drive more traffic, convert more visitors and increase sales. It will not be long before you can dominate your niche.
+
+<strong>Plus points for the Search Engines</strong>
+
+Getting into the first page of the search is essential in keeping an influx of traffic in check. And guess what, Google, Yahoo and Bing are giving WordPress website an extra point in their rankings. So by simply using WordPress, you can gain an extra edge and outsmart your competition without breaking a sweat . In fact, Matt Cutts, head of webspam at Google, "WordPress is made to bolster SEO" How is that for a marketing start?
+
+<strong>Mobile readiness</strong>
+
+More and more people are using tablets and android phones. This means you need to bring your business to their mobile devices. Do you have to build another website for this channel? Of course not! WordPress already got a solution for that. It can automatically recognize if a user is using a web browser or a mobile app. As it does, WordPress instantly configures the content to be viewed accordingly.
+
+<strong>Plugins <a href="http://wordpressdesigner.biz/wp-content/uploads/2013/01/wordpress-plugin1.jpg"><img class="aligncenter size-full wp-image-369" src="http://wordpressdesigner.biz/wp-content/uploads/2013/01/wordpress-plugin1.jpg" alt="" width="600" height="200" /></a></strong>
+
+WordPress offers you more functionality than any other CMS combined. With WP plugins you can make the most of your ideas and integrate them into your website. You can add great photo galleries, forums, maps, shopping carts as well as extend your site with polls, contact forms, ratings and other cool features that can help you interact with your customers better.
+
+<strong>Support</strong>
+
+Lost in a WordPress project? Having difficulties customizing a feature? No problem, you can find support anywhere. There are millions of developers and geeks (like me) who love to write about WordPress and help you out. We are just one Google away!
+
+<a href="http://wordpressdesigner.biz/wp-content/uploads/2013/01/WP-logo2.jpg"><img class="alignleft size-full wp-image-371" src="http://wordpressdesigner.biz/wp-content/uploads/2013/01/WP-logo2.jpg" alt="" width="224" height="197" /></a>Last but not the least, your WordPress website grows with you. Now with these benefits you can easily grab, it makes no sense to hold back. You can achieve greater results and experience real sales You can be on your way to a more profitable 2013. And we can help you make the initial steps. Call us today.]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20130124]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/why-oh-why-should-i-use-wordpress/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2013/01/WP-logo2.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/01/wordpress-plugin1.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/01/screen-shot-2011-08-27-at-10-44-39-am.png|http://wordpressdesigner.biz/wp-content/uploads/2013/01/content-marketing-campaign.png|http://wordpressdesigner.biz/wp-content/uploads/2013/01/Untitled-1.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/01/wordpress-plugin.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/01/userfriendly1.gif|http://wordpressdesigner.biz/wp-content/uploads/2013/01/userfriendly.gif|http://wordpressdesigner.biz/wp-content/uploads/2013/01/Notable_WP_Users.png|http://wordpressdesigner.biz/wp-content/uploads/2013/01/Picture2.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/01/Picture11.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/01/Picture1.jpg]]></imageurl>
+		<imagetitle><![CDATA[WP logo|wordpress-plugin|screen-shot-2011-08-27-at-10-44-39-am|content-marketing-campaign|Untitled-1|wordpress-plugin|userfriendly|userfriendly|Notable_WP_Users|Picture2|Picture1|Picture1]]></imagetitle>
+		<imagecaption><![CDATA[|||||||||||]]></imagecaption>
+		<imagedescription><![CDATA[|||||||||||]]></imagedescription>
+		<imagealttext><![CDATA[|||||||||||]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[Wordpress Designer biz|wordpress designer philippines|wordpress developer philippines|wordpress development philippines]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[2]]></author>
+		<slug><![CDATA[why-oh-why-should-i-use-wordpress]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20131122]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[392]]></id>
+		<title><![CDATA[CMS War is On ... Drupal vs. Joomla! vs Wordpress]]></title>
+		<content><![CDATA[<p style="text-align: left"><strong>(Choosing the Right CMS For Your Needs) </strong></p>
+<strong></strong>Every developer, programmer or IT enthusiast has a favorite when it comes to using open source CMS (content management system) for his projects. Sometimes it all comes down to functionality and ease of use but the lines are blurred and there is no clear-cut victor. Who is really the King of CMS and which is the right one for you?
+
+&nbsp;
+
+&nbsp;
+
+<strong><a href="http://wordpressdesigner.biz/wp-content/uploads/2013/03/Screen-Shot-2012-05-07-at-11.15.47-AM.png"><img class="alignright  wp-image-398" src="http://wordpressdesigner.biz/wp-content/uploads/2013/03/Screen-Shot-2012-05-07-at-11.15.47-AM-300x200.png" alt="" width="240" height="160" /></a>First off... Why do you need a CMS?</strong>
+
+In developing a website you need a CMS to publish, manage and control your content. There are a number of ways you can use a CMS depending on the features it supports. It can be used to run an online store, send out newsletters, publish a blog or just maintain a large amount of information. More advanced functionalities can be done with the use of plug-ins and extensions.
+
+<strong>What are your options?</strong>
+
+There are a number of CMS frameworks. Good thing some good folks have done the dirty work of comparing these options. And after the dust settled, three stood out:<a href="http://wordpressdesigner.biz/wp-content/uploads/2013/03/Feb5.jpg"><img class="aligncenter size-full wp-image-416" src="http://wordpressdesigner.biz/wp-content/uploads/2013/03/Feb5.jpg" alt="" width="650" height="250" /></a>
+
+&nbsp;
+<p style="text-align: left"><strong>Pros, Cons and The Verdict</strong></p>
+<strong>Drupal</strong>
+
+<a href="http://wordpressdesigner.biz/wp-content/uploads/2013/03/Drupalicomunny.gif"><img class="size-medium wp-image-418 alignright" src="http://wordpressdesigner.biz/wp-content/uploads/2013/03/Drupalicomunny-237x300.gif" alt="" width="237" height="300" /></a>Drupal is a powerful tool for nearly any web application. It is known for its hefty taxonomy and ability to tag, categorize and organize complex content. Just how easily you can accomplish them is the question. Drupal is code-intensive and inherently patch-work making it intimidating for beginners.
+
+Pros: Free, large user base, thousands of features available
+Cons: complicated and messy. Need to hire professional Drupal developer. Really expensive
+Average setup cost: $5,000 - $50,000
+Maintenance: $1,500
+Verdict: A clear trade-off between power and ease of use. If the budget is an issue, Drupal might not be for you.
+
+<strong>Joomla!</strong>
+
+<a href="http://wordpressdesigner.biz/wp-content/uploads/2013/03/icon_module_joomla.jpg"><img class="size-full wp-image-420 alignright" src="http://wordpressdesigner.biz/wp-content/uploads/2013/03/icon_module_joomla.jpg" alt="" width="140" height="140" /></a>Joomla! Is best described as less complex than Drupal but more complex than Wordpress. Unlike Drupal, Joomla! requires simpler installation and setup. With a relatively small effort of understanding Joomla's structure and terminology, you can create fairly complex websites. Plus it boasts some of the highest quality CMS theme designs available online.
+
+Pros: Huge support community, great templates
+Cons: weak SEO support out-of-the-box, plugins are vulnerable to attacks
+Average setup cost: $2,00 - $20,000
+Maintenance: $500
+Verdict: Can be an attractive alternative to Drupal but may share the same shortcomings
+
+<strong>WordPress</strong>
+
+<a href="http://wordpressdesigner.biz/wp-content/uploads/2013/03/wordpress1.png"><img class="size-medium wp-image-425 alignright" src="http://wordpressdesigner.biz/wp-content/uploads/2013/03/wordpress1-298x300.png" alt="" width="298" height="300" /></a>Wordpress started as an innovative, super easy-to-use blogging platform. Through years of development, the Wordpress community created a user-friendly CMS with an ever-increasing repertoire of theme, plugins and widgets. It is powerful enough to efficiently build websites to suit any needs and requirements as clients can take over the site management without fuss. Plus, both amateurs and experts alike can benefit from Wordpress' great support and tutorials readily available online.
+
+Pros: very simple to use, user-friendly interface and tools, beautiful and stylish design themes, SEO and Google-friendly
+Cons: cannot handle complex websites
+Average setup cost: $250 - $15, 000
+Maintenance: $250
+Verdict: If your website does not require intensive coding and structuring, Wordpress is for you
+
+<strong>At the end of the day it all comes down to your needs</strong>
+
+Do not be overwhelmed by the pros and cons you read. Choose a CMS that can best serve your purpose. Whether it is Drupal, Joomla! or Wordpress, be sure to choose a CMS that has the tools, features, extensions, plugins and ready made template that can help your business grow online.
+
+<strong><a href="http://wordpressdesigner.biz/wp-content/uploads/2013/03/WP-logo1.jpg"><img class="alignleft size-full wp-image-432" src="http://wordpressdesigner.biz/wp-content/uploads/2013/03/WP-logo1.jpg" alt="" width="224" height="197" /></a>How to get you started</strong>
+
+The first step is to sign up for a web hosting plan that supports your CMS choice. Then ask around for a quote on your project and here at WPD we will be honored to provide you an obligation FREE quote you can use to make smarter, more informed decision for your online needs.]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20130305]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/cms-war-is-on-drupal-vs-joomla-vs-wordpress-2/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2013/03/Wordpress-vs-Drupal-vs-Joomla-1.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/03/WP-logo1.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/03/WP-logo.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/03/wordpress1.png|http://wordpressdesigner.biz/wp-content/uploads/2013/03/wordpress.png|http://wordpressdesigner.biz/wp-content/uploads/2013/03/icon_module_joomla.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/03/Drupalicomunny.gif|http://wordpressdesigner.biz/wp-content/uploads/2013/03/Feb5.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/03/Feb4.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/03/Feb3.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/03/Feb2.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/03/Feb1.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/03/Feb.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/03/Screen-Shot-2012-05-07-at-11.15.47-AM.png]]></imageurl>
+		<imagetitle><![CDATA[Wordpress-vs-Drupal-vs-Joomla (1)|WP logo|WP logo|wordpress|wordpress|icon_module_joomla|Drupalicomunny|Feb|Feb|Feb|Feb|Feb|Feb|Screen-Shot-2012-05-07-at-11.15.47-AM]]></imagetitle>
+		<imagecaption><![CDATA[|||||||||||||]]></imagecaption>
+		<imagedescription><![CDATA[|||||||||||||]]></imagedescription>
+		<imagealttext><![CDATA[|||||||||||||]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[Wordpress Designer biz|wordpress designer philippines|wordpress developer philippines|wordpress development philippines]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[2]]></author>
+		<slug><![CDATA[cms-war-is-on-drupal-vs-joomla-vs-wordpress-2]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20131122]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[445]]></id>
+		<title><![CDATA[Three Essential Ways to Speed Up Your WordPress Site Loading Time]]></title>
+		<content><![CDATA[<img class="aligncenter size-medium wp-image-448" src="http://wordpressdesigner.biz/wp-content/uploads/2013/05/wordpressdesigner1-300x148.jpg" alt="" width="300" height="148" />If there is one thing that a WordPress site owner suffers from, is probably because it is usually very slow to load. If you do not take the right precaution for this, you might end up feeling distressed with a sluggish site which will not only cause hassle to you, but as well as to your visitors.
+
+<strong>So Why Website Speed Is Essential</strong>
+
+When a visitor lands on a website for the first time, you only have 10 seconds to capture that person’s attention and convince him to hang around. Here, enters the old cliche that goes "Time is PRECIOUS". If your website loads too slow, there is a tendency that your supposed-to-be potential visitor/lead will click the X mark and leave your page. What a loss! Right?
+
+<img class="aligncenter size-full wp-image-450" src="http://wordpressdesigner.biz/wp-content/uploads/2013/05/Man+on+couch+looking+at+laptop+smiling.jpg" alt="" width="615" height="409" />Note that nobody likes to wait around for your website to load. Your visitors have a lot of important things to do than to wait for your site to appear. Ten seconds is too short to captivate the attention of your website visitors. That is why it is essential for you to optimize your WP site to maximize its loading time.
+
+To help you, below are some easy steps that you can follow to speed up your WP:
+
+<strong>Make Sure to Cache Plugin</strong>
+
+<img class="alignright size-medium wp-image-452" src="http://wordpressdesigner.biz/wp-content/uploads/2013/05/Cache-Find-Plugin-300x137.jpg" alt="" width="300" height="137" />Caching plugin can help in improving your website’s loading time since it caches every aspect of your WP site. This will then result to significant reduction of download time. The use of W3 Total Cache is highly recommended since it is very simple to use and of course it is offered for FREE.
+
+<strong><img class="alignleft  wp-image-454" src="http://wordpressdesigner.biz/wp-content/uploads/2013/05/optimisation-de-pages-web-150x150.jpg" alt="" width="120" height="120" />Optimize the Image in Your Site</strong>
+
+Note that the image files is much larger than plain text in your site. That is why it takes too much to load compared to a website with only plain text. To minimize the loading time, you can make use of a free plugin WP-smushlt that can automatically help you reduce the size of the images found in your website.
+
+<strong>Allow Hotlink Protection</strong>
+
+Hotlinks happens when the external website links to an image in your website and increases its loading time. The reason why hotlinking can increase the loading time of your WP site is because it makes your server load increasingly high. However, there is this certain function that is called Hotlink Protection. You can make use of this to enable the protection in the form of bandwidth theft.
+<p style="text-align: left"><img class="aligncenter  wp-image-460" src="http://wordpressdesigner.biz/wp-content/uploads/2013/05/wordpress-Designer.png" alt="" width="600" height="400" />The above-mentioned are just a few of the many things that you can do in order to decrease the loading time of your WP site. However, I also understand that that you might not have enough time to do these tasks. Therefore, I suggest that you look for a professional <a href="http://wordpressdesigner.biz/">WordPress designer Philippines</a> to help you out.</p>
+<strong>WordPress Designer</strong> can be of great help. They are leading in WordPress development in Cagayan de Oro. To know more about <strong>WordPress Designer</strong>, visit us at out official website today.]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20130506]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/three-essential-ways-to-speed-up-your-wordpress-site-loading-time/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2013/05/wordpress-Designer.png|http://wordpressdesigner.biz/wp-content/uploads/2013/05/optimisation-de-pages-web.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/05/Cache-Find-Plugin.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/05/Man+on+couch+looking+at+laptop+smiling.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/05/wordpressdesigner1.jpg]]></imageurl>
+		<imagetitle><![CDATA[wordpress Designer|your empty board|Cache-Find-Plugin|Wordpressdesigner2|wordpressdesigner1]]></imagetitle>
+		<imagecaption><![CDATA[||||]]></imagecaption>
+		<imagedescription><![CDATA[||||]]></imagedescription>
+		<imagealttext><![CDATA[||||]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[Wordpress Designer biz|wordpress designer philippines|WordPress Designers|wordpress developer philippines|wordpress development philippines]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[2]]></author>
+		<slug><![CDATA[three-essential-ways-to-speed-up-your-wordpress-site-loading-time]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20131122]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[465]]></id>
+		<title><![CDATA[Why You Should Use WordPress For Your Website?]]></title>
+		<content><![CDATA[<img class="aligncenter size-full wp-image-471" src="http://wordpressdesigner.biz/wp-content/uploads/2013/07/why-use-wordpress.jpg" alt="" width="625" height="350" />
+<p style="margin-top: 355px">WordPress is a dynamic content management system that is generally intended to set up an easy blogging website. However, as years passed by, many web developers found ways to utilize WordPress not only for making blog sites, but also for making it an optimal business website. Many business owners are using wordpress powered website to help them have an easy to use and visually attractive website design.</p>
+<img class="aligncenter size-full wp-image-481" src="http://wordpressdesigner.biz/wp-content/uploads/2013/07/WordPress-2003-563x270.png" alt="" width="563" height="270" />
+<p style="margin-top: 275px">WordPress has been in the web since 2003, and there are already many updates that occur in this web-based software because there are already skilled wordpress developers that customize its functions effectively. Over 73 million people including bloggers, nonprofit organization, small businesses and big corporations are using WordPress to have a personal or professional website.</p>
+If you are wondering why many people and businesses are using WordPress to their personal and business website, well, do take note of the following.
+<p style="margin-top: 5px"><strong><em><a href="http://wordpressdesigner.biz/wp-content/uploads/2013/07/WpSEO.png"><img class="alignleft size-full wp-image-484" src="http://wordpressdesigner.biz/wp-content/uploads/2013/07/WpSEO.png" alt="" width="100" height="150" /></a></em></strong></p>
+<p style="margin-top: 4px"><strong><em>SEO friendly</em>.</strong> WordPress provides good search engine optimization results to all business. This is because the code behind this web-based program is clean and simple. Most search engines love to crawl and read the content of WordPress website because it will be easy to index the content. A professional and skilled wordpress developer firm can help you with this, especially if your business is based in the Philippines.</p>
+<p style="margin-top: 25px"><strong><em>Easily customize the website content</em>.</strong> Are you always frustrated with the delays of the changes that you want to make on your website? Well, worry no more, because if your website is powered by a WordPress design, it will be easy for you to do some changes. You need not to use complex HTML tool editor like Dreamweaver to make changes in your website’s content. However, there are some aspects of WordPress designing and development that are still best left to professional wordpress developers.</p>
+<a href="http://wordpressdesigner.biz/wp-content/uploads/2013/07/CustWPD.png"><img class="aligncenter  wp-image-489" src="http://wordpressdesigner.biz/wp-content/uploads/2013/07/CustWPD.png" alt="" width="618" height="235" /></a>
+<p style="margin-top: 245px"><strong><em>Easy plug ins installation</em>.</strong> With WordPress powered website, extensions or plugins are easily installed without spending too much time on it. You can even put poll questions in your site, free contact us forms and other appealing extensions in your site. If you find this difficult, you can always consider employing a dedicated firm of wordpress development in the Philippines.</p>
+<p style="text-align: center"><a href="http://wordpressdesigner.biz/wp-content/uploads/2013/07/wordp-plugins.png"><img class="aligncenter  wp-image-501" src="http://wordpressdesigner.biz/wp-content/uploads/2013/07/wordp-plugins.png" alt="" width="605" height="307" /></a></p>
+<p style="margin-top: 320px"><strong><em>Quick Support</em>.</strong> If there is anything that you want like adding customized add ons, you can always call professional wordpress developers. It will not be difficult for you to find a reputable wordpress development firm because there are hundreds of them waiting for your call. No need to wait for days because as this article said earlier, WordPress is easy to use and manage.</p>
+<p style="text-align: center"><a href="http://wordpressdesigner.biz/wp-content/uploads/2013/07/quick-support.png"><img class="aligncenter  wp-image-502" src="http://wordpressdesigner.biz/wp-content/uploads/2013/07/quick-support.png" alt="" width="400" height="220" /></a></p>
+<p style="margin-top: -19px">In addition, WordPress websites can be hosted by many providers out there at the lowest price. you can also integrate your wordpress website to existing website around the web associated with your business. You can always consider finding help to a wordpress designer in the Philippines to integrate wordpress website to existing sites.</p>
+On top of these reasons why you should use WordPress website is that it gives you a great relationship with your website. It means that you know well how your website works.
+
+Should you need to have a WordPress powered website, let <strong>Wordpress Designer</strong> help you with that.]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20130723]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/why-you-should-use-wordpress-for-your-website/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2013/07/quick-support.png|http://wordpressdesigner.biz/wp-content/uploads/2013/07/wordp-plugins.png|http://wordpressdesigner.biz/wp-content/uploads/2013/07/CustWPD.png|http://wordpressdesigner.biz/wp-content/uploads/2013/07/WpSEO.png|http://wordpressdesigner.biz/wp-content/uploads/2013/07/WordPress-2003-563x270.png|http://wordpressdesigner.biz/wp-content/uploads/2013/07/Wordpress-Blog-Platform1.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/07/Wordpress-Blog-Platform.jpg|http://wordpressdesigner.biz/wp-content/uploads/2013/07/why-use-wordpress.jpg]]></imageurl>
+		<imagetitle><![CDATA[quick support|wordp-plugins|CustWPD|WpSEO|WordPress in 2003|wordpress|wordpress|why-use-wordpress]]></imagetitle>
+		<imagecaption><![CDATA[|||||||]]></imagecaption>
+		<imagedescription><![CDATA[|||||render of gears and the text wordpress|render of gears and the text wordpress|]]></imagedescription>
+		<imagealttext><![CDATA[|||||||]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[Wordpress Designer biz|wordpress designer philippines|wordpress developer philippines|wordpress development philippines]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[2]]></author>
+		<slug><![CDATA[why-you-should-use-wordpress-for-your-website]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20131122]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[528]]></id>
+		<title><![CDATA[What To Look For In A Wordpress Developer in the Philippines ]]></title>
+		<content><![CDATA[<p style="text-align: center"><img class="aligncenter size-full wp-image-540" src="http://wordpressdesigner.biz/wp-content/uploads/2013/08/wordpressdesigner1.png" alt="" width="610" height="450" /></p>
+<p style="margin-top: 455px">You may not heard about wordpress, or you may heard about it, but you do not know what it can do to you and to your business. Well, I have a friend who has a blog site which is a wordpress themed site. She said that most blog sites are wordpress-based. In fact, wordpress is one of the world’s most popular blogging platforms with over 55 million users and thousands of wordpress blogging sites created everyday.</p>
+But just recently, Leigh, an entrepreneur, set up her business website with a wordpress theme. It was amazing because wordpress is really generally used for blog sites. But Leigh said, that if you have a professional wordpress developer, you can really do anything with a wordpress platform site, not just for blogging purposes.
+<p style="text-align: center"><img class="aligncenter size-full wp-image-544" src="http://wordpressdesigner.biz/wp-content/uploads/2013/08/wordpressdesigner2.png" alt="" width="610" height="350" /></p>
+<p style="margin-top: 360px">Leigh is only one of the million people around the world who already used wordpress as their website platform. Big names of companies that also prefer using wordpress in their websites include Mashable, CNN, Harvard, The Rolling Stones, and a lot more.</p>
+However, no matter how appealing the idea of wordpress websites is, just like what Leigh said, it will take a professional and reliable wordpress designer to make you get the most out of a wordpress-themed website.
+
+If you are currently based in the Philippines, and you want to find an excellent and money-back guaranteed wordpress developer, here is a list of what you should do.
+
+<strong>Ask for a fixed cost</strong>. A good wordpress developer in the Philippines will give an outline of the project for the website that you plan to put up. If you plan to have an ecommerce site, make sure that you ask your designer and developer how much it will cost you if you have a specific number of pages in your site. They should be able to communicate with you effectively and efficiently, and return to you with a website outline having a fixed cost.
+<p style="text-align: center"><img class="aligncenter size-full wp-image-546" src="http://wordpressdesigner.biz/wp-content/uploads/2013/08/wordpressdesigner3.png" alt="" width="610" height="350" /></p>
+<p style="margin-top: 370px"><strong>Ask for plugins installation</strong>. Some wordpress designers claim to install plugins in a website which is not really necessary. A good wordpress designer in Philippines will give you recommendations of plugins that they think is the best for your website, and explain to you why your website need to have it, and how it will benefit you, and your site’s potential online visitors.</p>
+<p style="text-align: center"><img class="aligncenter size-full wp-image-548" src="http://wordpressdesigner.biz/wp-content/uploads/2013/08/wordpressdesigner4.png" alt="" width="610" height="350" /></p>
+<p style="margin-top: 370px"><strong>Ask for sample works</strong>. You do not really want to work with a designer who is still new to wordpress, right? So when you evaluate a wordpress developer, ask for his sample works. Good wordpress developers will be able to show you the number of wordpress websites that they have developed and designed.</p>
+<p style="text-align: center"><img class="aligncenter size-full wp-image-550" src="http://wordpressdesigner.biz/wp-content/uploads/2013/08/wordpressdesigner5.png" alt="" width="610" height="350" /></p>
+<p style="margin-top: 370px"><strong>Wordpress Designer</strong> will be happy to help you in your Wordpress development needs. Our services in terms of wordpress development in Philippines are delivered quickly with a minimal cost.</p>
+<a href="http://wordpressdesigner.biz/have-us-call-you/"><img class="aligncenter size-full wp-image-552" src="http://wordpressdesigner.biz/wp-content/uploads/2013/08/wordpressdesigner6.png" alt="" width="610" height="350" /></a>
+<p style="margin-top: 370px">Give us a call anytime and let us know how we can help you.</p>]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20130816]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/what-to-look-for-in-a-wordpress-developer-in-the-philippines/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2013/08/wordpressdesigner6.png|http://wordpressdesigner.biz/wp-content/uploads/2013/08/wordpressdesigner5.png|http://wordpressdesigner.biz/wp-content/uploads/2013/08/wordpressdesigner4.png|http://wordpressdesigner.biz/wp-content/uploads/2013/08/wordpressdesigner3.png|http://wordpressdesigner.biz/wp-content/uploads/2013/08/wordpressdesigner2.png|http://wordpressdesigner.biz/wp-content/uploads/2013/08/wordpressdesigner1.png]]></imageurl>
+		<imagetitle><![CDATA[wordpressdesigner6|wordpressdesigner5|wordpressdesigner4|wordpressdesigner3|wordpressdesigner2|wordpressdesigner1]]></imagetitle>
+		<imagecaption><![CDATA[|||||]]></imagecaption>
+		<imagedescription><![CDATA[|||||]]></imagedescription>
+		<imagealttext><![CDATA[|||||]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[Wordpress Designer biz|wordpress designer philippines|wordpress developer philippines|wordpress development philippines]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[2]]></author>
+		<slug><![CDATA[what-to-look-for-in-a-wordpress-developer-in-the-philippines]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20131122]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[561]]></id>
+		<title><![CDATA[Five Important Things That WordPress Developer Should Take Note]]></title>
+		<content><![CDATA[<p style="text-align: center"><img class="aligncenter size-full wp-image-574" src="http://wordpressdesigner.biz/wp-content/uploads/2013/09/wpd-Sept-Art.png" alt="" width="610" height="350" /></p>
+<p style="margin-top: 360px">WordPress is the most popular CMS platform that is used by over 73 million sites on the web. It is easy to implement, contains thousands of plugins and a huge library of excellent themes. The use of WordPress in any site can save both cost and deployment time. It has user-friendly features that can easily be learned in just a short period of time.</p>
+However, even if WordPress is easy to use, it still takes a professional and expert WordPress developer to really make a WordPress-based website visually appealing. In fact, Alex, an excellent Wordpress developer in the Philippines believes that even those who have experienced using WordPress still have to learn some important things about the best CMS platform.
+
+When asked about it, he said that the following are the most important things that WordPress developers should know:
+<p style="text-align: center;margin-top: 40px"><img class="aligncenter size-full wp-image-566" src="http://wordpressdesigner.biz/wp-content/uploads/2013/09/wpd-Sept-Art2.png" alt="" width="610" height="300" /></p>
+<p style="margin-top: 310px"><strong>Avoid WYSIWYG</strong>. This is not directly related to the development of a WordPress-based website, but credible Wordpress development companies in the Philippines believe that this is important to note when building the site. Website content and/or blog updates using WYSIWYG editor on WordPress platform can cause trouble, especially if the site’s stylesheet is not prepared for any code inserts in the future. It might be good if your developer knows how to use HTML. It will definitely save both of you a lot of time in the future should you have changes and/or updates in your site.</p>
+<p style="text-align: center;margin-top: 40px"><img class="aligncenter size-full wp-image-568" src="http://wordpressdesigner.biz/wp-content/uploads/2013/09/wpd-Sept-Art3.png" alt="" width="610" height="300" /></p>
+<p style="margin-top: 310px"><strong>Avoid using query_posts()</strong>. As a general rule in any website development, <strong>DO NOT</strong> make things happen if it is not really necessary. With WordPress, avoid using jQuery codes like the query_post(). This will quickly turn into eight queries rather than two (it will include the main query and to the site’s index.php query).</p>
+<p style="text-align: center;margin-top: 40px"><img class="aligncenter size-full wp-image-569" src="http://wordpressdesigner.biz/wp-content/uploads/2013/09/wpd-Sept-Art4.png" alt="" width="610" height="300" /></p>
+<p style="margin-top: 310px"><strong>Scripts and styles</strong>. Always enqueue your scripts and styles. When developing a WordPress-based site, use the wp_enqueue_script function that can help to load one version of site’s JS library. You really do not want to freeze your JS library because of multiple calls, right?</p>
+<p style="text-align: center;margin-top: 40px"><img class="aligncenter size-full wp-image-570" src="http://wordpressdesigner.biz/wp-content/uploads/2013/09/wpd-Sept-Art5.png" alt="" width="610" height="300" /></p>
+<p style="margin-top: 310px"><strong>GZIP</strong>. With side-server GZIP, compressing website files before sending to the user is attainable. What developers should do is to insert this simple code snippet to the .htaccess file, it is definitely a time-saver.</p>
+#Gzip
+
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript text/javascript
+
+#End Gzip
+
+Plugins. If developers want to improve the performance of the website they are building, there are many catching plugins, DB optimization plugins, CSS and minifying plugins.
+
+If you get stuck with these things in creating your WordPress-based website, let a <strong>Wordpress Designer</strong> help you. We are one of the best Wordpress developers in Cagayan de Oro, Philippines who are dedicated and very attentive to detail in our Wordpress services.]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20130924]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/five-important-things-that-wordpress-developer-should-take-note/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2013/09/wpd-Sept-Art.png|http://wordpressdesigner.biz/wp-content/uploads/2013/09/wpd-Sept-Art5.png|http://wordpressdesigner.biz/wp-content/uploads/2013/09/wpd-Sept-Art4.png|http://wordpressdesigner.biz/wp-content/uploads/2013/09/wpd-Sept-Art3.png|http://wordpressdesigner.biz/wp-content/uploads/2013/09/wpd-Sept-Art2.png]]></imageurl>
+		<imagetitle><![CDATA[wpd Sept Art|wpd Sept Art5|wpd Sept Art4|wpd Sept Art3|wpd Sept Art2]]></imagetitle>
+		<imagecaption><![CDATA[||||]]></imagecaption>
+		<imagedescription><![CDATA[||||]]></imagedescription>
+		<imagealttext><![CDATA[||||]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[Wordpress Designer|Wordpress Designer biz|wordpress designer philippines|wordpress developer|wordpress developer philippines|WordPress Development|wordpress development philippines]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[2]]></author>
+		<slug><![CDATA[five-important-things-that-wordpress-developer-should-take-note]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20131122]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[586]]></id>
+		<title><![CDATA[Tips To Speed Up Your WordPress-Based Website]]></title>
+		<content><![CDATA[<img class="aligncenter size-full wp-image-595" src="http://wordpressdesigner.biz/wp-content/uploads/2013/10/wpd-Oct-1.png" alt="" width="610" height="350" />
+
+WordPress has really evolved from its humble beginning as a platform used for blogging sites into a powerful and beneficial CMS. In fact, more than 60 million websites including 45 of the Technorati Top 100 sites are using WordPress! However, even if there are millions of sites on the Internet that use WordPress as their platform, problems like slow loading process cannot be avoided.
+
+For instance, Jimmy owns a photography site online and he always receives complaints from his clients that it takes time for his site to be fully loaded and to see its full content. Well, Jimmy’s problem is not new for all business owners who have a WordPress-based website on the Internet. No one wants to lose a potential customer because of a slow-loading site. So, if you do not want Jimmy’s problem to happen to you, here are the things that you MUST do.
+<ul>
+	<li>
+<p style="margin-top: 0px"><strong><img class="alignright size-medium wp-image-594" src="http://wordpressdesigner.biz/wp-content/uploads/2013/10/wpd-Oct-2-300x172.png" alt="" width="300" height="172" />Hire credible and a good web hosting provider.</strong> Speed and reliability are two important factors to remember when you hire a web host. See to it that you can find a web hosting firm that offers trusted and reliable records and provide plenty of bandwidth. Remember, if your host is slow, your site will also be slow and you can really do nothing about it. So choose wisely<span style="font-size: 13px;line-height: 19px">.</span></p>
+</li>
+	<li>
+<p style="margin-top: 10px"><strong><img class="alignright size-medium wp-image-597" src="http://wordpressdesigner.biz/wp-content/uploads/2013/10/wpd-Oct-4-300x172.png" alt="" width="300" height="172" />Use an excellent theme.</strong> There are thousands of themes readily available for you, but only choose themes that have simple and clean code behind it. This is because the messier your WordPress theme is, the more effort a web browser has to work to load your site. To help you in choosing the right theme for your WordPress site, you can always ask professional advice from an expert Wordpress developer in the Philippines.</p>
+</li>
+	<li>
+<p style="margin-top: 20px"><strong><img class="alignright size-medium wp-image-599" src="http://wordpressdesigner.biz/wp-content/uploads/2013/10/wpd-Oct-5-300x172.png" alt="" width="300" height="172" />Upload small or compressed image files in your WordPress site.</strong> Before uploading your image to your site, resize it first for your site to load quickly. Large size images can be the cause of a slow-loading site, so always optimize the pictures that you will be uploading to your website.</p>
+</li>
+	<li>
+<p style="margin-top: 30px"><strong><a href="http://wordpressdesigner.biz/wp-content/uploads/2013/10/wpd-Oct-6.png"><img class="alignright size-medium wp-image-601" src="http://wordpressdesigner.biz/wp-content/uploads/2013/10/wpd-Oct-6-300x172.png" alt="" width="300" height="172" /></a>Install a caching plugin.</strong> Caching can speed up the loading process of a website. For instance, the first visitor will roam on your website and the plug in will then save the data from the first visitor and then serve it directly to any subsequent visitors. This process can reduce the strain on your database and the user’s browsing experience. One of the best and highly recommended plugins by professional Wordpress development firms in the Philippines for this is the W3 Total Cache.</p>
+</li>
+</ul>
+Do you have any knowledge of the other ways to speed up a WordPress-based website?
+
+<a href="http://wordpressdesigner.biz/"><strong>Wordpress Designer</strong></a> has all the knowledge to speed up a WordPress website. We have the most professional and knowledgeable wordpress developers and designers in the Philippines.]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20131008]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/tips-to-speed-up-your-wordpress-based-website/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2013/10/wpd-Oct-6.png|http://wordpressdesigner.biz/wp-content/uploads/2013/10/wpd-Oct-5.png|http://wordpressdesigner.biz/wp-content/uploads/2013/10/wpd-Oct-4.png|http://wordpressdesigner.biz/wp-content/uploads/2013/10/wpd-Oct-1.png|http://wordpressdesigner.biz/wp-content/uploads/2013/10/wpd-Oct-2.png]]></imageurl>
+		<imagetitle><![CDATA[wpd Oct 6|wpd Oct 5|wpd Oct 4|wpd Oct 1|wpd Oct 2]]></imagetitle>
+		<imagecaption><![CDATA[||||]]></imagecaption>
+		<imagedescription><![CDATA[||||]]></imagedescription>
+		<imagealttext><![CDATA[||||]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[Wordpress Designer biz|wordpress designer philippines|WordPress Designers|wordpress developer philippines|WordPress Developers|WordPress Development|wordpress development philippines]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[2]]></author>
+		<slug><![CDATA[tips-to-speed-up-your-wordpress-based-website]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20131122]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[610]]></id>
+		<title><![CDATA[How To Keep Your WordPress-Based Website Secured?]]></title>
+		<content><![CDATA[When you own a website, security should be your utmost priority. Having your site hacked by unscrupulous individuals is not fun. That is why your site’s protection must be that effective to make it safe from possible dangerous <strong>malware software</strong>.
+
+<a href="http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov.png"><img class="aligncenter size-full wp-image-615" src="http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov.png" alt="" width="588" height="330" /></a>
+<p style="margin-top: 340px">Security is always a big thing, especially for those websites that are powered by WordPress, says a professional <strong>Wordpress developer in the Philippines</strong>. If you ever faced a situation where your site has been hacked, you had to re-build it from scratch. It can take you several days to do it, which might cause you to lose your loyal customers and spend a huge amount of money just to fix the problems.</p>
+<p style="margin-top: 25px">To avoid any issues regarding website security, take note of the following:</p>
+
+<ul>
+	<li>
+<p style="margin-top: 0px"><strong><a href="http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-2.png"><img class="alignright size-full wp-image-646" src="http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-2.png" alt="" width="160" height="170" /></a>Only use secured hosting provider. </strong>As a general rule of the thumb, <strong>DO NOT</strong> go to those hosting providers that offer affordable hosting services. But, if you prefer availing the services of a hosting provider that only offers lower prices, just make sure that they are well-established and has an excellent track record in terms of hosting reliability. It will always be worth it to pay an extra amount of money for your peace of mind because you know that your website is in good hands.</p>
+</li>
+	<li>
+<p style="margin-top: 30px"><strong><a href="http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-3.png"><img class="alignright size-full wp-image-647" style="margin-top: -15px" src="http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-3.png" alt="" width="160" height="170" /></a>Always update your WordPress-based website</strong>. Every time WordPress releases a new version of their platforms, it always contains patches and fixes that might make your site vulnerable to attacks. Always keep your website updated with the latest version and keep an eye on your Dashboard notification area and pay attention to the ‘Please update now’ messages.</p>
+</li>
+	<li>
+<p style="margin-top: 40px"><strong><a href="http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-4.png"><img class="alignright size-full wp-image-632" style="margin-top: -25px" src="http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-4.png" alt="" width="160" height="170" /></a>Use a password that is hard to decipher</strong>. There are around 8% of a WordPress-based websites that are down because of weak passwords. You need to make a password that is secure and not just a simple “Admin” or “Administrator”. You can always diversify it, like “1Adm1n0269tor”, that is more difficult to guess than the former.</p>
+</li>
+	<li>
+<p style="margin-top: 30px"><strong><a href="http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-5.png"><img class="alignright size-full wp-image-642" src="http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-5.png" alt="" width="160" height="170" /></a>Disable file editing through your dashboard.</strong>. If hackers will successfully gain access to your admin dashboard, they could also edit your files that way, and inject malware codes or whatever dangerous code they wanted to ruin your website.
+A credible WordPress development company in the Philippines believes that it is a good idea to disable file editing method, by adding this to your <strong>wp-config.php</strong> file:</p>
+<p style="margin-top: 0px"><strong>define( ‘DISALLOW_FILE_EDIT’, true );</strong></p>
+</li>
+	<li>
+<p style="margin-top: 30px"><strong><a href="http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-6.png"><img class="alignright size-full wp-image-643" style="margin-top: -30px" src="http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-6.png" alt="" width="160" height="170" /></a>Always use security plugins.</strong>. When you choose and install plugins on your Wordpress-based site, make sure that they are from your admin panel or under the plugin directory at wordpress.org. This is because the officially released plugins are checked for security and scanned for malware.</p>
+</li>
+</ul>
+If you get confused by these things in keeping your WordPress-based website secure, let <strong><a title="Wordpress Designer" href="http://wordpressdesigner.biz/" target="_blank">Wordpress Designer</a></strong> help you. We are one of the best Wordpress developers in Cagayan de Oro, Philippines who are dedicated and very attentive to detail in securing and keeping your site safe from harmful viruses.
+
+<strong>What are the tips that you can give to keep a WordPress website secured?</strong>]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20131122]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/how-to-keep-your-wordpress-based-website-secured/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-3.png|http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-2.png|http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-6.png|http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-5.png|http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov-4.png|http://wordpressdesigner.biz/wp-content/uploads/2013/11/Wordpress-Designer-Nov.png]]></imageurl>
+		<imagetitle><![CDATA[Wordpress Designer Nov 3|Wordpress Designer Nov 2|Wordpress Designer Nov 6|Wordpress Designer Nov 5|Wordpress Designer Nov 4|Wordpress Designer Nov]]></imagetitle>
+		<imagecaption><![CDATA[|||||]]></imagecaption>
+		<imagedescription><![CDATA[|||||]]></imagedescription>
+		<imagealttext><![CDATA[|||||]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[Wordpress Designer|Wordpress Designer biz|wordpress designer philippines|wordpress developer philippines|wordpress development philippines]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[2]]></author>
+		<slug><![CDATA[how-to-keep-your-wordpress-based-website-secured]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20131122]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[667]]></id>
+		<title><![CDATA[Be Updated With the Latest WordPress Trends for a Better Business]]></title>
+		<content><![CDATA[<a href="http://wordpressdesigner.biz/wp-content/uploads/2014/05/Be-Updated-With-the-Latest-WordPress-Trends-for-a-Better-Business-copy.png"><img class="aligncenter size-full wp-image-668" title="Be Updated With the Latest WordPress Trends for a Better Business copy" src="http://wordpressdesigner.biz/wp-content/uploads/2014/05/Be-Updated-With-the-Latest-WordPress-Trends-for-a-Better-Business-copy.png" alt="" width="600" height="400" /></a>
+
+WordPress started out as a simple personal publishing system in 2001, now it has become one of the world’s leading content management systems. WordPress has inspired several people to become web developers with its transparent and easy to understand coding style.
+
+In fact, it has become so famous that big news industries, celebrities, musicians, and corporations started using WordPress to connect more with readers/fans/consumers. Some big companies and artists that use WordPress are the New York Times, Katy Perry, and Samsung.
+
+Small, local businesses have also started getting on the WordPress train for better business, and we can help you with <a href="http://wordpressdesigner.biz/">WordPress development here in the Philippines</a>. To somehow help you get started, here are some WordPress trends that you should be aware of:
+<ul>
+	<li>Make your WordPress website more responsive and mobile-phone friendly. If you haven't noticed, 60% of the available WordPress themes are already designed to be responsive and suitable for mobile phones. You might want to take that as a sign to get a similar design for your WordPress website. This is because more and more people use the internet to browse on their Smartphones. That's enough reason for a businessman to create a website design that’s compatible with mobile phones.</li>
+	<li>A simple design that’s easy to navigate and doesn't take forever to load is the most ideal now since speedy internet is getting more and more in demand among the masses. If you have a design that's too extravagant it might take a little more time to load, making the impatient person close your website and choose another one that’s faster. You can still make your WordPress website design look elegant and nice, as long as it’s simple enough that it loads fast.</li>
+	<li>The times where Arial and Times New Roman were the only two functional fonts for a website are long gone. Although those two are still necessary for formal blog text, the design of your blog should explore the other fonts that have been forgotten for too long. Choosing the right font or using the right typography can make the difference between a plain website, and a website that's pleasing and lovely to look at.</li>
+	<li>Flat, solid colors are now more popular than gradients and shadows. Strategically using the right color on certain parts of your website will make it look more powerful and modern. Gradients and shadows might now be considered old-fashioned. It's really all about sleek, simple and sophisticated designs.</li>
+</ul>
+Being a businessman with a WordPress website requires you to be up to date with the latest trends for a good business. So, if you find your website is a little outdated, allow us to help you make your design look updated.]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20140520]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/be-updated-with-the-latest-wordpress-trends-for-a-better-business/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2014/05/Be-Updated-With-the-Latest-WordPress-Trends-for-a-Better-Business-copy.png]]></imageurl>
+		<imagetitle><![CDATA[Be Updated With the Latest WordPress Trends for a Better Business copy]]></imagetitle>
+		<imagecaption><![CDATA[]]></imagecaption>
+		<imagedescription><![CDATA[]]></imagedescription>
+		<imagealttext><![CDATA[]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[businesses|design|Flat|local|trends|WordPress]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[2]]></author>
+		<slug><![CDATA[be-updated-with-the-latest-wordpress-trends-for-a-better-business]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20140527]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[674]]></id>
+		<title><![CDATA[Top 3 Methods How To Optimize WordPress Websites for Mobiles]]></title>
+		<content><![CDATA[<p><a href="http://wordpressdesigner.biz/wp-content/uploads/2014/05/Top-3-Methods-How-To-Optimize-WordPress-Websites-for-Mobiles-copy.png"><img src="http://wordpressdesigner.biz/wp-content/uploads/2014/05/Top-3-Methods-How-To-Optimize-WordPress-Websites-for-Mobiles-copy.png" alt="" title="Top 3 Methods How To Optimize WordPress Websites for Mobiles copy" width="600" height="400" class="aligncenter size-full wp-image-675" /></a></p>
+<p>Mobile-optimized websites are no longer a matter of luxury, but a necessity. If you want your website to be relevant to your target audience, you need to provide them with an easier access through their various devices.</p>
+
+<p>This is especially true if you have a WordPress-based website. Such sites with platforms like these use various themes that are attractive, but not mobile friendly.</p>
+
+<p>In order to make your website look well on various devices such as desktops, iPads, iphones, and the likes, it's essential for you to mobile-optimize it. </p>
+
+<p>Here are 3 easy methods which can guide you how to optimize your WordPress website to mobile devices.</p>
+<ul>
+	<li><p><strong>Choose a Responsive WordPress Theme</strong>. This is the most common method to make a website mobile friendly. The responsive web design offers an easy reading and navigation functions from desktop computer monitors to mobile devices.</p>
+
+	<p><a href="http://wordpressdesigner.biz/" title="Wordpress Design and Development in Philippines">With a responsive WordPress theme</a>, your site can automatically adjust its appearance according to the devices used by viewers, without CSS changes or any code additions. You can find many well-designed responsive themes in the WordPress marketplaces today. ThemeForest for instance offers 2000 or more responsive WordPress themes. Other markets also include the Elegant Themes and Mojo Themes. With thousands of responsive WordPress themes, you can surely find one that suits your requirements.</p></li>
+
+	<li><p><strong>Use a mobile plugin</strong>. Mobile plug ins can also enable a site to be mobile-friendly. Without going through a complicated process, you can easily install and configure them for making your website friendly to various devices.</p>
+
+	<p>There are thousands of WordPress mobile plugins that you can choose from and to make your search easier, you can check out the top WordPress mobile plugins below.</p>
+	<ul>
+		<li><p><strong>WordPress Mobile Pack</strong>. This plug in contains a mobile switcher, admin panel, themes and widgets with which web developers can easily configure to optimize a website for mobiles.</p></li>
+
+		<li><p><strong>WPTouch</strong>. This plugin enables elegant themes to look well on mobile devices. You can also customize the appearance of your website to deliver a user-friendly design for mobiles.</p></li>
+
+		<li><p><strong>WordPress Mobile Detector</strong>. This is a powerful plugin that can optimize WordPress sites for mobiles in just minutes! It can detect 5,000 or more mobile devices and displays a compatible mobile theme according to what device is being used.</p></li>
+
+		<li><p><strong>Mobile Smart</strong>. This plugin allows WordPress sites to switch its theme for users who use mobile devices.</p></li>
+	</ul>
+	<p>These plugins are all excellent and effective to mobile-optimize a WordPress website, however, which one to use will greatly depend on your opinion.</p></li>
+
+	<li><p><strong>Create a mobile version of your desktop website</strong>. You can choose to create a special mobile version of your website. This method may need more work than the previous two. However, this might be what you need if you only want some specific features on your website that you would like your mobile visitors to see. </p></li>
+</ul>
+<p>The future of every website is its mobile design - and it is unstoppable. There is a new device every day, and more people reach out to their mobile devices to use the internet. If you haven’t optimized your site for mobiles yet, you probably MUST do it now.</p>
+
+<p><strong>Can you think of any better method to mobile-optimize a WordPress website? Let us hear your thoughts by leaving a comment below!</strong></p>
+]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20140527]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/top-3-methods-how-to-optimize-wordpress-websites-for-mobiles/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2014/05/Top-3-Methods-How-To-Optimize-WordPress-Websites-for-Mobiles-copy.png]]></imageurl>
+		<imagetitle><![CDATA[Top 3 Methods How To Optimize WordPress Websites for Mobiles copy]]></imagetitle>
+		<imagecaption><![CDATA[]]></imagecaption>
+		<imagedescription><![CDATA[]]></imagedescription>
+		<imagealttext><![CDATA[]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[desktop|iPads|iphones|mobile|Mobile-optimized|optimized|plugin|themes|WordPress|WordPress Theme]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[2]]></author>
+		<slug><![CDATA[top-3-methods-how-to-optimize-wordpress-websites-for-mobiles]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20140820]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[681]]></id>
+		<title><![CDATA[What's The Word On WordPress: Four of WordPress' Latest Updates in Web Design and Development]]></title>
+		<content><![CDATA[<p><a href="http://wordpressdesigner.biz/wp-content/uploads/2014/08/wpdblog1augMProfNPassededited_OK-V1.png"><img src="http://wordpressdesigner.biz/wp-content/uploads/2014/08/wpdblog1augMProfNPassededited_OK-V1.png" alt="" title="wpdblog1augMProfNPassededited_OK V1" width="600" height="400" class="aligncenter size-full wp-image-682" /></a></p>
+<p>If designing and developing a website seems a little complicated, business owners can always start establishing their online identity through WordPress. According to ithemes.com, WordPress is "probably the easiest and most powerful blogging and website content management system in existence today".</p>
+
+<p>WordPress is quite popular for small, medium and large business enterprises. In fact, celebrities and big news outlets like The New York Times even use this tool to manage their blogs/content. Plus, this content management system (CMS) is written in PHP, so you're in luck if PHP is yours or your website developer's field of expertise.</p>
+
+<p>Compared to starting a website from scratch, <a href="http://wordpressdesigner.biz/" target="_blank">WordPress is a lot easier and maybe even quicker</a>. However, like owning a website it's important to stay on your toes for any news or updates on its web designs and developments.</p>
+
+<p>With that said, here are a few of the following news and updates that’s been going on with WordPress lately:</p>
+<ul>
+	<li><p>Like Facebook, WordPress now allows users to "Like" the comments they read on a post. Now you can appreciate interesting, insightful or funny comments more by liking them. This also allows for more interaction amongst the readers. You can enable this new feature by going to Settings, then to the Sharing options in your dashboard.</p></li>
+
+	<li><p>Recently, plain and simple designs are all it takes for your WordPress website to look good. There's no need to complicate things with abstract backgrounds or flash animation since it only produces unnecessary "noise". When it comes to backgrounds, try using a full width high-definition photo since it's what most designers are doing these days.</p></li>
+
+	<li><p>Kelly is one of the newest themes available on WordPress, which is designed by Kelly Hoffman from Automattic. It’s a simple one-column layout that gives off that "clean" look, and reviews say it's just perfect for posts with a lot of text. However, it's also a great theme to streamline images in an orderly fashion. Ben Huberman, a writer from WordPress, even said that the design's look is "out-of-the-box" and has a "stylish playfulness".</p></li>
+
+	<li><p>One-page WordPress websites are also all the rage for WordPress designers, since this is somewhat a response to the navigation difficulties for mobile users. All the important information and content are placed artistically on one page. When you click on an item or a link, the website doesn't load a page, but rather it shifts to another area within the page. Cool, huh?</p></li>
+</ul>
+<p>These are only some of what's been going on with WordPress lately, and you can find a lot of other interesting news on WordPress' blog site. When it comes to WordPress designs and development, it's always better to stay on your toes!</p>
+]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20140818]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/whats-the-word-on-wordpress-four-of-wordpress-latest-updates-in-web-design-and-development/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2014/08/wpdblog1augMProfNPassededited_OK-V1.png]]></imageurl>
+		<imagetitle><![CDATA[wpdblog1augMProfNPassededited_OK V1]]></imagetitle>
+		<imagecaption><![CDATA[]]></imagecaption>
+		<imagedescription><![CDATA[]]></imagedescription>
+		<imagealttext><![CDATA[]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[4]]></author>
+		<slug><![CDATA[whats-the-word-on-wordpress-four-of-wordpress-latest-updates-in-web-design-and-development]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20140820]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[688]]></id>
+		<title><![CDATA[Get Your Own WordPress Website for only $399.00!]]></title>
+		<content><![CDATA[<p>With just $399, you already have:</p>
+<ul>
+	<li><p>Web Design -  Choose from the 3 templates we provide (limited to 1 revision only)</p></li>
+
+	<li>
+		<p>Web Pages</p>
+		<ul>
+			<li><p>Home page</p></li>
+			<li><p>About Us page</p></li>
+			<li><p>Services page</p></li>
+			<li><p>Portfolio page</p></li>
+			<li><p>Contact Us page</p></li>
+		</ul>
+	</li>
+	<li>
+		<p>Free Hosting service and domain name registration for the <strong>1st year</strong> with the following:</p>
+		<ul>
+			<li><p>Free 3 hrs. website maintenance and minor updates for the whole contract duration</p></li>
+			<li><p>A payment of Php.499/month, after the first year for domain and hosting service</p></li>
+		</ul>
+	</li>
+</ul>
+<strong><p>The Process:</p></strong>
+<ol>
+	<li><p>Syntactics Inc. will provide Three (3) design template choices for your business</p></li>
+	<li><p>Client will choose from the design options for the website layout</p></li>
+	<li><p>Client will provide the content (logos, images and text)</p></li>
+</ol>
+<strong><p>Disclaimer:</p></strong>
+<ul>
+	<li><p>Pages will ONLY be LIMITED to the pages STATED ABOVE (ADDITIONAL pages will be deemed as ADDITION to the PACKAGE HOURS and COSTS)</p></li>
+	<li><p>This is NOT an ECOMMERCE WEBSITE, thus there will be NO ecommerce transaction in any part of the website.</p></li>
+	<li><p>There will be a prominent INQUIRY BUTTON on all the website pages for inquiry.</p></li>
+	<li><p>Pages will be simple content page, which would include simple text and image contents</p></li>
+	<li><p>WPD will submit a proposal that would contain the complete inclusion of the website and the package PER REQUEST.</p></li>
+</ul>
+<p><strong>Request a proposal now! <a href="http://wordpressdesigner.biz/have-us-call-you/" title="Contact Us">Click here</a></strong></p>]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20140819]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/get-your-very-own-wordpress-site/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2014/08/WPD-Slider-Image-1-V5.png|http://wordpressdesigner.biz/wp-content/uploads/2014/08/WPD-Slider-Image-1-V4.png|http://wordpressdesigner.biz/wp-content/uploads/2014/08/WPD-Slider-Image-1-V3.png|http://wordpressdesigner.biz/wp-content/uploads/2014/08/WPD-Slider-Image-1-V2.png|http://wordpressdesigner.biz/wp-content/uploads/2014/08/WPD-Slider-Image-1-V1.png]]></imageurl>
+		<imagetitle><![CDATA[WPD Slider Image 1 V5|WPD Slider Image 1 V4|WPD Slider Image 1 V3|WPD Slider Image 1 V2|WPD Slider Image 1 V1]]></imagetitle>
+		<imagecaption><![CDATA[||||]]></imagecaption>
+		<imagedescription><![CDATA[||||]]></imagedescription>
+		<imagealttext><![CDATA[||||]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[slider]]></categories>
+		<tags><![CDATA[]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[4]]></author>
+		<slug><![CDATA[get-your-very-own-wordpress-site]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20140911]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[694]]></id>
+		<title><![CDATA[Wordpress implementation]]></title>
+		<content><![CDATA[dfgh]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20140819]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/test/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2014/08/WPD-Slider-Image-2-V3.png|http://wordpressdesigner.biz/wp-content/uploads/2014/08/WPD-Slider-Image-2-V2.png]]></imageurl>
+		<imagetitle><![CDATA[WPD Slider Image 2 V3|WPD Slider Image 2 V2]]></imagetitle>
+		<imagecaption><![CDATA[|]]></imagecaption>
+		<imagedescription><![CDATA[|]]></imagedescription>
+		<imagealttext><![CDATA[|]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[slider]]></categories>
+		<tags><![CDATA[]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[4]]></author>
+		<slug><![CDATA[test]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20140819]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[765]]></id>
+		<title><![CDATA[WordPress' Buddy: What's New With BackupBuddy 5.0]]></title>
+		<content><![CDATA[<p><a href="http://wordpressdesigner.biz/wp-content/uploads/2014/09/wordpressupdateaugMProfNPassed_OK-V1.png"><img src="http://wordpressdesigner.biz/wp-content/uploads/2014/09/wordpressupdateaugMProfNPassed_OK-V1.png" alt="wordpressupdateaugMProfNPassed_OK V1" width="600" height="400" class="aligncenter size-full wp-image-766" /></a></p>
+<p>The WordPress community is buzzing about a newly released update on one of its handy plugins, BackupBuddy. For those new to BackupBuddy, it's a WordPress plugin that gives developers a quicker and easier way to move their WordPress sites to other hosts or domains. It's also a useful plugin because when a WordPress website goes down it makes restoration less problematic.</p>
+
+<p>A favorite plugin for developers as it is convenient to use. BackupBuddy 5.0 have developers waiting on the edge of their seats.</p>
+
+<p>The update was released on August 21, 2014, and here are some of the new features that have been the talk of the WordPress community:</p>
+<ul>
+	<li><p><strong>New backups page.</strong> BackupBuddy 5.0's backups page takes a more active approach regarding the progression of your backups. In the previous version, all you can see is the Status Log tab, which gave somewhat vague status updates on a backup. The new update has an additional Overview tab that provides more details on the backup process and even provides help when needed during an ongoing backup.</p></li>
+
+	<li><p><strong>New remote destinations page.</strong> These remote destinations are where you save and manage all your backups. The old page looked simple enough with a Remote Destinations tab, which displayed existing destinations and an option to add a new destination. Its second tab, Recently Transferred Files, as the name suggests displayed newly stored files on certain destinations. It seems easy to view, but the new UI for this page is said to be a lot easier. Your two tabs are now just a My Stash and +Add New tab. Also, both the remote destination files and management options are displayed on the same page, allowing for a more convenient time managing your remote files.</p></li>
+
+	<li><p><strong>New ImportBuddy.</strong> ImportBuddy is an additional plugin that comes with BackupBuddy, which is used to restore or import files to a new domain or host. The UI looks a lot less crowded, taking the import process one at a time for easier files restoration. Step 1, for example, now only presents two options (Restore Backup and Advanced Options). This is simpler to follow compared to the previous version that had three tabs (Server, Upload, Stash) with different options. It also has a new feature that allows you to choose whether to restore files, the database, or both during an import process.</p></li>
+</ul>
+<p>So far developers have been giving positive reviews for BackupBuddy 5.0. In fact, here are some of what they've been saying about the update:</p>
+
+<p>"Awesome update. The new UI for adding remote destinations is nice, easy database rollback is great too!" - Kian Ann, <a href="http://www.champcode.com/" target="_blank">www.champcode.com</a></p>
+
+<p>"This plugin is a must. Can't begin to tell you how many times it's saved my bacon. With BackupBuddy in place, it gives me the confidence to try just about anything on my sites, whilst all the time knowing I can roll my site back if anything goes wrong and have it up and running in a few minutes. Love the improvements!" - Gordon, <a href="http://www.fluffytech.co.uk/" target="_blank">www.fluffytech.co.uk</a></a></p>
+
+<p>"This is wonderful. Man, I love it. The database rollback works beautifully! And the UI is gorgeous, and the selective file recovery is lovely. You guys have really been working, and keeping ahead of the curve." - Chris Burbridge, <a href="http://chrisburbridge.com/" target="_blank">chrisburbridge.com</a></p>
+
+<p>What's your say on the latest BackupBuddy update? Do you like it? Or do you think it still needs a little something? If you haven't tried it out yet, it might be high time that you do! Since from what I'm hearing, BackupBuddy 5.0 has been making a lot of developers happy, and that may include you too!</p>]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20140911]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/wordpress-buddy-whats-new-with-backupbuddy-5-0/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2014/09/wordpressupdateaugMProfNPassed_OK-V1.png]]></imageurl>
+		<imagetitle><![CDATA[wordpressupdateaugMProfNPassed_OK V1]]></imagetitle>
+		<imagecaption><![CDATA[]]></imagecaption>
+		<imagedescription><![CDATA[]]></imagedescription>
+		<imagealttext><![CDATA[]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[4]]></author>
+		<slug><![CDATA[wordpress-buddy-whats-new-with-backupbuddy-5-0]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20140925]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[860]]></id>
+		<title><![CDATA[Having the Right WordPress Website Developers and Designers Means a Successful Online Business]]></title>
+		<content><![CDATA[<p><a href="http://wordpressdesigner.biz/wp-content/uploads/2015/03/WPDblogmarJProfNPassed_OK-V1.png"><img src="http://wordpressdesigner.biz/wp-content/uploads/2015/03/WPDblogmarJProfNPassed_OK-V1.png" alt="WPDblogmarJProfNPassed_OK V1" width="395" height="272" class="aligncenter size-full wp-image-861" style="float:none;margin:0 auto;" /></a></p>
+
+<p>Starting your own online business is easy if you have the right people and services. When you say RIGHT, it means these people are experts and reliable. They can help you create your own WordPress website that's functional, easy to navigate and directs visitors to buy or avail your products/services. They provide services that are flexible enough to match your budget but never sacrifice the quality.</p>
+
+<p><strong>What must you do first?</strong></p>
+
+<p>Get people who have years of experience as WordPress website developers and designers. They must have the attitude, skills and talents to create the WP website according to client's specifications. They must be:</p>
+<ul style="float:none;">
+	<li>Creative and have a commercial approach in their website design services</li>
+	<li>WordPress Experts</li>
+	<li>Reliable</li>
+	<li>Client oriented</li>
+	<li>Have a deep understanding of plugins</li>
+	<li>Build remarkable WordPress websites that are functional and secure</li>
+</ul>
+<p>If you think you found the right WordPress people and the right company, then check first if they are offering the following important WordPress services, such as:</p>
+<ul style="float:none;">
+	<li><strong style="font-style:italic;">WordPress Website Development</strong> - They can create and develop your customized website according to your needs and budget. They must be capable of developing very basic corporate websites to WP membership sites, as well as eCommerce sites.</li>
+	<li><strong style="font-style:italic;">Theme Customisation</strong> - They can create attractive WordPress themes for current or even new websites, but still make sure that they fully understand your brand and services and reflect it accordingly.</li>
+	<li><strong style="font-style:italic;">Plugin Development</strong> - They can build WordPress plugins and can customize features to meet your specific requirements for your online business. They also offer a wide range of plugin features that you can choose from.</li>
+	<li><strong style="font-style:italic;">Support and Maintenance</strong> - They can provide support and maintenance for your WordPress website to make sure that it will always be secured and updated.</li>
+</ul>
+<p>If you are okay with the services they have, then see if you need to have a dedicated WordPress website developers and designers. When you say, dedicated staff, they work solely for you and your project. It's like having your own personal staff but you only pay for the projects done, minus the employee benefits!</p>
+
+<p>Now that you have the right people and services, let these WordPress Experts do their job. Once they are done, you are ready to take the online world by storm! You do not need a miracle to be successful in your online business - <strong>YOU JUST NEED THE RIGHT PEOPLE AND THE RIGHT SERVICES!</strong></p>
+
+<p>Have your own WordPress website now!</p>]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20150309]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/having-the-right-wordpress-website-developers-and-designers-means-a-successful-online-business/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2015/03/WPDblogmarJProfNPassed_OK-V1.png]]></imageurl>
+		<imagetitle><![CDATA[WPDblogmarJProfNPassed_OK V1]]></imagetitle>
+		<imagecaption><![CDATA[]]></imagecaption>
+		<imagedescription><![CDATA[]]></imagedescription>
+		<imagealttext><![CDATA[]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[4]]></author>
+		<slug><![CDATA[having-the-right-wordpress-website-developers-and-designers-means-a-successful-online-business]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20150309]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[880]]></id>
+		<title><![CDATA[Top Simple SEO Ideas For WordPress-based Websites]]></title>
+		<content><![CDATA[<img src="http://wordpressdesigner.biz/wp-content/uploads/2015/10/WPDBizblog1octJProfNPassed.png" alt="Top Simple SEO Ideas For WordPress-based Websites" width="600" height="400" class="aligncenter size-full wp-image-881" />
+<p>WordPress is now one of  the most popular platforms when making a website. In fact, even  big corporations use WordPress as it is user friendly  and does not require complicated codings.</p>
+
+<p>Aside from that, business owners want to use WordPress in making their website because they know that search engines, like Google, love to crawl sites made from this kind of platform. However, according to an expert WordPress developer in the Philippines, having your site set up in a WordPress platform is not enough if you want to build traffic.</p>
+
+<p>If you want your WordPress-based website to build an ideal number of traffic and be on top of SERP, then optimizing it is necessary.  It's best to have an SEO friendly website to make sure you attract your target market and bring revenue to your business. To be able to do that, you must take note of the following simple tips that  will enable  your Wordpress-based site to appear  on search engine’s first search result page.</p>
+<ul>
+	<li><strong>Having high quality content is the best optimization technique that can make your WordPress-based website rank on SERP.</strong> Even if you use the best and the latest SEO method if your site has not incorporated a high quality and informative content, Google and other search engines will not put any value to it and will not increase your rankings on SERP.  Relevant content is what search engines look for in a website to make it rank on search result pages. You have to make your content really appealing, one that is readable and understandable and written for humans and not for robots.</li>
+
+	<li><strong>Put your posts to your social media profiles.</strong> Anything new to your website should be posted in your social media profiles. You will have a chance to get a bigger market when you incorporate your site’s updates to social media sites. Ask a professional WordPress designer in the Philippines to help you in putting a social media platform in your website where messages threads are easily seen by your visitors.</li>
+
+	<li><strong>Use short and easy to remember permalinks.</strong> It is a general rule that you use an understandable and recognizable permalink.  For instance, if you have a permalink like http://yourwebsitenamecom/page-id-2334-phpdeveloper-philippines/ - use http://yourwebsitename.com/phpdeveloper-philippines/, you should take note that the first words after your site’s name in a permalink are relevant.  Google does not really care about any succeeding words in your permalinks. Remember  to put the keywords on every page in your site to its permalinks.</li>
+</ul>
+<p>If you want to make your WordPress-based website fully optimized, start looking for a credible WordPress development company in the Philippines today, like <strong>Wordpress Designer</strong>.  They know what is an SEO friendly website and they make sure that your website has all the necessary components to be worthy of Google's and other search engines' attention.</p>]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20151016]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/top-simple-seo-ideas-for-wordpress-based-websites/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2015/10/WPDBizblog1octJProfNPassed.png]]></imageurl>
+		<imagetitle><![CDATA[Top Simple SEO Ideas For WordPress-based Websites]]></imagetitle>
+		<imagecaption><![CDATA[]]></imagecaption>
+		<imagedescription><![CDATA[]]></imagedescription>
+		<imagealttext><![CDATA[Top Simple SEO Ideas For WordPress-based Websites]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[4]]></author>
+		<slug><![CDATA[top-simple-seo-ideas-for-wordpress-based-websites]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20151016]]></postmodifieddate>
+	</node>
+	<node>
+		<id><![CDATA[890]]></id>
+		<title><![CDATA[6 Tips to Keep Your WordPress Site Safe]]></title>
+		<content><![CDATA[<a href="http://wordpressdesigner.biz/wp-content/uploads/2016/02/WordPress-Security-A1-January-GK-QAPRPassed-crop.png"><img class="aligncenter size-full wp-image-899" src="http://wordpressdesigner.biz/wp-content/uploads/2016/02/WordPress-Security-A1-January-GK-QAPRPassed-crop.png" alt="Top Simple SEO Ideas For WordPress-based Websites" width="621" height="399" /></a>
+
+WordPress is the world's most popular blogging platform and Content Management System (CMS). Due to its ease of use and gentle learning curve, it has found a place among a wide range of websites, from business to news, and everything in between. According to W3Techs, 25.6% of all sites use WP, while a staggering 58.8% use it as their CMS of choice.
+<p style="text-align: justify;">WP's widespread adoption does come with its downsides though, as it's a frequent target of hackers who aim to exploit a range of loopholes in any way possible.</p>
+<p style="text-align: justify;">To protect you against such hackers, here are some tips that will help ensure the security of your WP website; even though they aren't 100% foolproof, they will nevertheless ensure that your site will be as safe and as secure as possible.</p>
+<p style="text-align: justify;"><strong>Always Be Updated</strong></p>
+<p style="text-align: justify;">New releases of WordPress roll out on a regular basis containing new features, solved bugs, as well as security fixes, which just goes to show the proactiveness of the team behind it all. Keeping this in mind, it's a no-brainer that you should always keep your WordPress installation up-to-date.</p>
+<p style="text-align: justify;">If you're on a single install, head to <strong>Dashboard &gt; Updates</strong>, but if you have a multisite install, go to<strong> [Your Network Admin's] Dashboard &gt; Updates &gt; Available Updates</strong>.</p>
+<p style="text-align: justify;">Minor security patches will be installed automatically, but major releases need to be installed manually by visiting the previously-mentioned pages.</p>
+<p style="text-align: justify;"><strong>Have a Secure Host</strong></p>
+<p style="text-align: justify;">Some hosting providers are more secure than others, employing the latest in server technology and encryption. Do as much research as you can when choosing the right provider for your site; find out what security measures they have in place, and check out their reputation and track record.</p>
+<p style="text-align: justify;">You might get a pretty good deal with a cheap hosting solution, but are they safe and trustworthy?</p>
+<p style="text-align: justify;">Knowing what you're getting into beforehand will save you from a lot of trouble in the long run.</p>
+<p style="text-align: justify;"><strong>Use Strong Passwords</strong></p>
+<p style="text-align: justify;">It goes without saying that having an easy password such as "123456" or "password" is like giving a burglar the key to your front door. Hackers will easily gain access to your administrative account, and you can only imagine what damage they could inflict on your website.</p>
+<p style="text-align: justify;">Ideally, use a password that has alphanumeric characters, including both upper and lowercase characters, as well as punctuation.</p>
+<p style="text-align: justify;">To create an easily memorable, yet secure, password, think of a sentence only you would know. Then get the first letter of each word plus numbers and punctuation, and you have yourself the perfect password!</p>
+<p style="text-align: justify;">You can also install security plugins such as Wordfence Security or iThemes Security, or a password manager like LastPass, where you'll only need to remember one master password, and the service will store the rest of the passwords for you.</p>
+<p style="text-align: justify;"><strong>Choose a Unique Admin Username</strong></p>
+<p style="text-align: justify;">By default, when creating your site for the first time, WordPress 3.0 and earlier automatically sets the “admin” username to the default account, but you can now change this to your desired name during setup in later WP versions. By keeping the default username, all hackers would have to do is guess your password.</p>
+<p style="text-align: justify;">Solving this is simple: just set up a new administrator account (with another username of course), logging in as that user, then deleting the old, insecure “admin” account.</p>
+<p style="text-align: justify;">To avoid giving hackers easy access to your website, it's best to change your administrator username as soon as possible.</p>
+<p style="text-align: justify;"><strong>Install Trusted Themes and Plugins</strong></p>
+<p style="text-align: justify;">There's a wide variety of WordPress themes and plugins, both free and premium, available online, but some of them may do more harm than good. Many contain badly-written code that can adversely affect your site.</p>
+<p style="text-align: justify;">Also, there might be vulnerabilities that haven't been discovered, which can be exploited by hackers. Even with trusted plugins, the developer might add some malicious lines of code in an update unbeknownst to the site owner.</p>
+<p style="text-align: justify;">Choosing themes and plugins from trusted websites and developers will be your best bet.</p>
+<p style="text-align: justify;"><strong>Backup Your Website</strong></p>
+<p style="text-align: justify;">Last, but certainly not the least, make regular backups of your website. You might have taken all the precautions, but there might still be a security hole you may have forgotten to patch up, which could cost you your website. Having backups will mean that in case the worst happens, you'll be able to restore your website as soon as possible.</p>
+<p style="text-align: justify;">These are just a few of the measures that will help you protect your WordPress website from hackers and vulnerabilities. It's a constant battle against you, the website owner, and the bad guys who will do whatever it takes to gain control of your site.</p>]]></content>
+		<excerpt><![CDATA[]]></excerpt>
+		<date><![CDATA[20160216]]></date>
+		<posttype><![CDATA[post]]></posttype>
+		<permalink><![CDATA[http://wordpressdesigner.biz/6-tips-to-keep-your-wordpress-site-safe/]]></permalink>
+		<imageurl><![CDATA[http://wordpressdesigner.biz/wp-content/uploads/2016/02/WordPress-Security-A1-January-GK-QAPRPassed.png|http://wordpressdesigner.biz/wp-content/uploads/2016/02/WordPress-Security-A1-January-GK-QAPRPassed-crop.png]]></imageurl>
+		<imagetitle><![CDATA[|Top Simple SEO Ideas For WordPress-based Websites]]></imagetitle>
+		<imagecaption><![CDATA[|]]></imagecaption>
+		<imagedescription><![CDATA[|]]></imagedescription>
+		<imagealttext><![CDATA[|]]></imagealttext>
+		<attachmenturl><![CDATA[]]></attachmenturl>
+		<categories><![CDATA[Blog]]></categories>
+		<tags><![CDATA[]]></tags>
+		<status><![CDATA[publish]]></status>
+		<author><![CDATA[4]]></author>
+		<slug><![CDATA[6-tips-to-keep-your-wordpress-site-safe]]></slug>
+		<format><![CDATA[]]></format>
+		<template><![CDATA[]]></template>
+		<parent><![CDATA[0]]></parent>
+		<parentslug><![CDATA[0]]></parentslug>
+		<order><![CDATA[0]]></order>
+		<commentstatus><![CDATA[open]]></commentstatus>
+		<pingstatus><![CDATA[open]]></pingstatus>
+		<postmodifieddate><![CDATA[20160216]]></postmodifieddate>
+	</node>
+</data>

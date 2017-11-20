@@ -8,6 +8,7 @@
 	<?php elegant_canonical(); ?>
 	<?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
