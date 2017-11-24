@@ -880,4 +880,18 @@ figcaption {
 	.fl-node-5a0bf5bf0f460, .fl-node-5a094feba00f4 {
 		background: #083567;
 	}
+
+	.sec6col2 .row {
+		display: block;
+	}
+
+	.sec6col2 figure {
+	    margin: 10px 0px;
+	}
+}
+
+@media only screen and (max-width: 524px) {
+	.spanA img {
+		display: none;
+	}
 }
