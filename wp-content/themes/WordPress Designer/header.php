@@ -29,6 +29,7 @@
 					<a href="javascript: void(0)">
 						<img src="/wd/wp-content/uploads/2017/11/contact_nav.png" class="quote">
 					</a>
+					<a href="javascript: void(0)" class="icon" style="font-size: 15px;"><i class="fa fa-bars"></i></a>
 				</div>
 			</div>
 		</div>
