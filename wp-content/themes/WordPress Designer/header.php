@@ -27,9 +27,9 @@
 				<div id="main-menu" class="nav">
 					<a href="javascript: void(0)" class="icon" style="font-size: 15px;"><span class="menu-text">Menu</span><i class="fa fa-bars"></i></a>
 					<?php get_template_part('includes/primary_menu'); ?>
-					<a href="javascript: void(0)">
+					<!-- <a href="javascript: void(0)">
 						<span class="quote contact_menu">Contact Us</span>
-					</a>
+					</a> -->
 					<a href="javascript: void(0)">
 						<img src="/wd/wp-content/uploads/2017/11/contact_nav.png" class="quote">
 					</a>
