@@ -208,7 +208,7 @@ span#footer-menu {
 	line-height: 26px;
 }
 
-.blog > #header, .page-template-default > #header, .post-template-default > #header, .archive > #header {
+.blog > #header, .page-template-default > #header, .post-template-default > #header, .archive > #header, .error404 > #header, .search > #header {
 	padding: 20px;
 	position: relative;
 	width: 100%;
@@ -460,7 +460,7 @@ figcaption {
 
 .row {
 	display: flex;
-	margin-top: 20px;
+	margin: 20px 30px;
 }
 
 .col-md-4 img {
@@ -509,19 +509,19 @@ figcaption {
 	display: none !important;
 }
 
-.gform_button {
+.gform_button, #submit {
 	background: #377CBA;
 	color: #fff;
 	font-weight: bold;
 	border: 0;
 }
 
-.gform_button:hover {
+.gform_button:hover, #submit:hover {
 	background: #56acff;
 }
 
 /* BLOG */
-#content-area-page {
+#content-area-page, #articles {
 	padding: 30px 50px;
 	background: #ecf0f2;
 }
@@ -657,6 +657,19 @@ figcaption {
 
 .hidden-icon {
 	visibility: hidden;
+}
+
+.error404 .page-heading {
+	padding: 20px 50px;
+}
+
+.error404 .page-heading, .error404 #content {
+	background: #ecf0f2;
+}
+
+.post-content {
+	font-size: 16px;
+	line-height: 26px;
 }
 
 /* RESPONSIVE */
