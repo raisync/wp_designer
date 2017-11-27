@@ -24,12 +24,15 @@
 						<h1 class="hidden-top"><?php echo esc_attr( get_bloginfo( 'name' ) ); echo ' '; echo esc_attr( get_bloginfo( 'description' ) ); ?></h1>
 					<?php } ?>
 				</figure>
-				<div id="main-menu">
+				<div id="main-menu" class="nav">
+					<a href="javascript: void(0)" class="icon" style="font-size: 15px;"><span class="menu-text">Menu</span><i class="fa fa-bars"></i></a>
 					<?php get_template_part('includes/primary_menu'); ?>
+					<a href="javascript: void(0)">
+						<span class="quote contact_menu">Contact Us</span>
+					</a>
 					<a href="javascript: void(0)">
 						<img src="/wd/wp-content/uploads/2017/11/contact_nav.png" class="quote">
 					</a>
-					<a href="javascript: void(0)" class="icon" style="font-size: 15px;"><i class="fa fa-bars"></i></a>
 				</div>
 			</div>
 		</div>
